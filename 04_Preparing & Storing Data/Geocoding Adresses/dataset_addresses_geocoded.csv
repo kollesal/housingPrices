@@ -1,0 +1,464 @@
+web-scraper-order,Street,full_address,PLZ,Ortschaftsname,Kantonskürzel,housenumber,strplz,address_geocoding,latitude,longitude
+1672673926-34301,Via Ceresio 39A,"Via Ceresio 39A, 6963 Pregassona",6963,Pregassona,TI,39.0,6963,Via Ceresio 39A Pregassona,46.02116394042969,8.97375774383545
+1672673272-29951,Via Vedo 3,"Via Vedo 3, 6963 Cureggia",6963,Pregassona,TI,3.0,6963,Via Vedo 3 Pregassona,46.02116394042969,8.97375774383545
+1672673272-29952,Via vedo 3,"Via vedo 3, 6963 Cureggia",6963,Pregassona,TI,3.0,6900,Via vedo 3 Pregassona,46.001792907714844,8.94404125213623
+1672673941-34412,Via Aprica 18,"Via Aprica 18, 6900 Lugano",6900,Lugano,TI,18.0,6965,Via Aprica 18 Lugano,46.05095672607422,8.988698959350586
+1672673938-34382,Riva Caccia 1A,"Riva Caccia 1A, 6900 Lugano",6900,Lugano,TI,1.0,6932,Riva Caccia 1A Lugano,46.009281158447266,8.925307273864746
+1672673941-34407,Via al Chioso 15,"Via al Chioso 15, 6900 Lugano",6900,Lugano,TI,15.0,6932,Via al Chioso 15 Lugano,46.00581741333008,8.924737930297852
+1672673941-34408,Via al Ponte 5,"Via al Ponte 5, 6900 Lugano",6900,Lugano,TI,5.0,6932,Via al Ponte 5 Lugano,46.00581741333008,8.924737930297852
+1672673819-33580,Via delle Scuole 15,"Via delle Scuole 15, 6900 Paradiso",6900,Lugano,TI,15.0,5436,Via delle Scuole 15 Lugano,47.439083099365234,8.367701530456543
+1672673846-33780,Via Giacomo Mercoli 3,"Via Giacomo Mercoli 3, 6900 Lugano",6900,Lugano,TI,3.0,8605,Via Giacomo Mercoli 3 Lugano,47.385677337646484,8.718844413757324
+1672673846-33782,Via Coremmo 1,"Via Coremmo 1, 6900 Lugano",6900,Lugano,TI,1.0,8605,Via Coremmo 1 Lugano,47.388282775878906,8.720287322998047
+1672673849-33816,Via al Ponte 6,"Via al Ponte 6, 6900 Lugano",6900,Lugano,TI,6.0,8868,Via al Ponte 6 Lugano,47.11652755737305,9.060431480407715
+1672673849-33819,via Brentani 17,"via Brentani 17, 6900 Lugano",6900,Lugano,TI,17.0,8867,via Brentani 17 Lugano,47.12723159790039,9.053755760192871
+1672671762-22170,Riva Antonio Caccia 1,"Riva Antonio Caccia 1, 6900 Lugano",6900,Lugano,TI,1.0,5645,Riva Antonio Caccia 1 Lugano,47.18423080444336,8.371940612792969
+1672671765-22185,Via 1,"Via 1, 6900 Lugano",6900,Lugano,TI,1.0,8840,Via 1 Lugano,47.14072036743164,8.74096393585205
+1672671765-22196,6900,"6900, 6900 Lugano",6900,Lugano,TI,6900.0,5415,6900 Lugano,47.48747634887695,8.301338195800781
+1672671768-22207,Strada San Maurizio 2,"Strada San Maurizio 2, 6900 Lugano",6900,Lugano,TI,2.0,1209,Strada San Maurizio 2 Lugano,46.22549819946289,6.123610973358154
+1672671771-22220,portichetto 2,"portichetto 2, 6900 Lugano",6900,Lugano,TI,2.0,8340,portichetto 2 Lugano,47.29999542236328,8.842309951782227
+1672672256-25402,Via Bregà 11,"Via Bregà 11, 6965 Cadro",6965,Cadro,TI,11.0,4104,Via Bregà 11 Cadro,47.52437973022461,7.558617115020752
+1672673883-34031,Via Principale 4,"Via Principale 4, 6914 Carona",6914,Carona,TI,4.0,8608,Via Principale 4 Carona,47.2689323425293,8.81756591796875
+1672672581-27542,Piazza Nosed 2,"Piazza Nosed 2, 6914 Carona",6914,Carona,TI,2.0,4125,Piazza Nosed 2 Carona,47.59468460083008,7.65544319152832
+1672673938-34391,Str. di Gandria 28,"Str. di Gandria 28, 6976 Lugano",6976,Castagnola,TI,28.0,8134,Str. di Gandria 28 Castagnola,47.30880355834961,8.525081634521484
+1672673474-31223,Via 1,"Via 1, 6976 Castagnola",6976,Castagnola,TI,1.0,6612,Via 1 Castagnola,46.1578483581543,8.779295921325684
+1672673474-31227,Strada di Gandria 54,"Strada di Gandria 54, 6976 Castagnola",6976,Castagnola,TI,54.0,6612,Strada di Gandria 54 Castagnola,46.1573600769043,8.772784233093262
+1672673477-31255,Via Belvedere 12,"Via Belvedere 12, 6976 Castagnola",6976,Castagnola,TI,12.0,7013,Via Belvedere 12 Castagnola,46.831764221191406,9.442270278930664
+1672673477-31259,Via San Giorgio 7,"Via San Giorgio 7, 6976 Castagnola",6976,Castagnola,TI,7.0,7013,Via San Giorgio 7 Castagnola,46.83599090576172,9.445222854614258
+1672672231-25220,Strada di Gandria 54,"Strada di Gandria 54, 6976 Castagnola",6976,Castagnola,TI,54.0,6925,Strada di Gandria 54 Castagnola,45.992679595947266,8.935127258300781
+1672672234-25258,Via 1,"Via 1, 6976 Castagnola",6976,Castagnola,TI,1.0,6925,Via 1 Castagnola,45.99118423461914,8.930818557739258
+1672672446-26699,Via Rava 2,"Via Rava 2, 6974 Aldesago",6974,Aldesago,TI,2.0,1233,Via Rava 2 Aldesago,46.1640739440918,6.057878017425537
+1672673681-32609,Via Pree 2,"Via Pree 2, 6917 Barbengo",6917,Barbengo,TI,2.0,7270,Via Pree 2 Barbengo,46.78974914550781,9.820093154907227
+1672673962-34542,Via Camara 41,"Via Camara 41, 6932 Breganzona",6932,Breganzona,TI,41.0,7265,Via Camara 41 Breganzona,46.840538024902344,9.871682167053223
+1672673568-31821,Via dei casagrande 12,"Via dei casagrande 12, 6932 Breganzona",6932,Breganzona,TI,12.0,7260,Via dei casagrande 12 Breganzona,46.805686950683594,9.836575508117676
+1672673568-31828,Via Pradello 29,"Via Pradello 29, 6932 Breganzona",6932,Breganzona,TI,29.0,7152,Via Pradello 29 Breganzona,46.789730072021484,9.253036499023438
+1672673571-31846,Vicolo dei Conti 6,"Vicolo dei Conti 6, 6932 Breganzona",6932,Breganzona,TI,6.0,9533,Vicolo dei Conti 6 Breganzona,47.41484832763672,9.044005393981934
+1672673571-31847,Via Pradello 29,"Via Pradello 29, 6932 Breganzona",6932,Breganzona,TI,29.0,9533,Via Pradello 29 Breganzona,47.411712646484375,9.035089492797852
+1672673571-31849,Via Rovere 7,"Via Rovere 7, 6932 Breganzona",6932,Breganzona,TI,7.0,9602,Via Rovere 7 Breganzona,47.411739349365234,9.063674926757812
+1672673571-31857,Via Pradello 29,"Via Pradello 29, 6932 Breganzona",6932,Breganzona,TI,29.0,6600,Via Pradello 29 Breganzona,46.17063522338867,8.791938781738281
+1672672305-25720,Via Casarico 21,"Via Casarico 21, 6932 Breganzona",6932,Breganzona,TI,21.0,8107,Via Casarico 21 Breganzona,47.45209503173828,8.429142951965332
+1672672305-25723,Via Prada 7,"Via Prada 7, 6932 Breganzona",6932,Breganzona,TI,7.0,8107,Via Prada 7 Breganzona,47.45977783203125,8.436321258544922
+1672672305-25728,Via 1,"Via 1, 6932 Breganzona",6932,Breganzona,TI,1.0,8952,Via 1 Breganzona,47.39527893066406,8.466151237487793
+1672672305-25731,Via 1,"Via 1, 6932 Breganzona",6932,Breganzona,TI,1.0,6048,Via 1 Breganzona,47.02288055419922,8.320352554321289
+1672672046-24018,Via Tessera 20,"Via Tessera 20, 6918 Figino",6918,Figino,TI,20.0,8706,Via Tessera 20 Figino,47.274444580078125,8.626388549804688
+1672673249-29798,Ra Cúrta 1,"Ra Cúrta 1, 6967 Dino",6967,Dino,TI,1.0,3963,Ra Cúrta 1 Dino,46.30429458618164,7.454182147979736
+1672672099-24360,Via Belvedere 2E,"Via Belvedere 2E, 6964 Davesco-Soragno",6964,Davesco-Soragno,TI,2.0,3963,Via Belvedere 2E Davesco-Soragno,46.31202697753906,7.488048076629639
+1672671553-20828,Strada dal Pozz 7,"Strada dal Pozz 7, 6915 Pambio-Noranco",6915,Pambio-Noranco,TI,7.0,3963,Strada dal Pozz 7 Pambio-Noranco,46.30739212036133,7.468123912811279
+1672672245-25333,Via 1,"Via 1, 6913 Carabbia",6913,Carabbia,TI,1.0,3963,Via 1 Carabbia,46.302978515625,7.471367359161377
+1672672554-27387,Neuensteigweg 10,"Neuensteigweg 10, 9424 Rheineck",9424,Rheineck,SG,10.0,3960,Neuensteigweg 10 Rheineck,46.29304122924805,7.528608798980713
+1672673935-34370,Fabrikstrasse 16,"Fabrikstrasse 16, 8887 Mels",8887,Mels,SG,16.0,9506,Fabrikstrasse 16 Mels,47.51820755004883,9.000743865966797
+1672673935-34367,Fabrikstrasse 16,"Fabrikstrasse 16, 8887 Mels",8887,Mels,SG,16.0,9506,Fabrikstrasse 16 Mels,47.517486572265625,8.995514869689941
+1672673935-34368,Fabrikstrasse 16,"Fabrikstrasse 16, 8887 Mels",8887,Mels,SG,16.0,9506,Fabrikstrasse 16 Mels,47.51643753051758,8.99131965637207
+1672673935-34369,Fabrikstrasse 16,"Fabrikstrasse 16, 8887 Mels",8887,Mels,SG,16.0,7505,Fabrikstrasse 16 Mels,46.513397216796875,9.85593032836914
+1672671710-21831,Winkelstrasse 45,"Winkelstrasse 45, 8887 Mels",8887,Mels,SG,45.0,7505,Winkelstrasse 45 Mels,46.51085662841797,9.858799934387207
+1672672499-27038,Feldackerstrasse 52,"Feldackerstrasse 52, 8887 Mels",8887,Mels,SG,52.0,7505,Feldackerstrasse 52 Mels,46.51103591918945,9.856090545654297
+1672673225-29621,Route de Vallaire 2,"Route de Vallaire 2, 1024 Ecublens VD",1024,Ecublens VD,VD,2.0,2300,Route de Vallaire 2 Ecublens VD,47.09278106689453,6.830201625823975
+1672673229-29648,Chemin de Veilloud 13,"Chemin de Veilloud 13, 1024 Ecublens VD",1024,Ecublens VD,VD,13.0,6834,Chemin de Veilloud 13 Ecublens VD,45.85177993774414,9.019233703613281
+1672672079-24236,Ormet 64,"Ormet 64, 1024 Ecublens VD",1024,Ecublens VD,VD,64.0,9212,Ormet 64 Ecublens VD,47.44112014770508,9.260997772216797
+1672671703-21784,Via 1,"Via 1, 6850 Mendrisio",6850,Mendrisio,TI,1.0,8737,Via 1 Mendrisio,47.233280181884766,9.021327018737793
+1672671707-21815,Via Vecchio Pretorio 5,"Via Vecchio Pretorio 5, 6850 Mendrisio",6850,Mendrisio,TI,5.0,8953,Via Vecchio Pretorio 5 Mendrisio,47.40584182739258,8.401849746704102
+1672671707-21818,Via Agostino Nizzola 2,"Via Agostino Nizzola 2, 6850 Mendrisio",6850,Mendrisio,TI,2.0,8953,Via Agostino Nizzola 2 Mendrisio,47.400272369384766,8.4065580368042
+1672673137-29080,Via Campagnola 22,"Via Campagnola 22/B, 6852 Genestrerio",6852,Genestrerio,TI,22.0,8953,Via Campagnola 22 Genestrerio,47.40833282470703,8.405891418457031
+1672673141-29116,Via Campagnola 22,"Via Campagnola 22/b, 6852 Genestrerio",6852,Genestrerio,TI,22.0,6933,Via Campagnola 22 Genestrerio,46.000244140625,8.9204740524292
+1672673141-29117,Via Campagnola 22,"Via Campagnola 22/b, 6852 Genestrerio",6852,Genestrerio,TI,22.0,6933,Via Campagnola 22 Genestrerio,46.00048065185547,8.919126510620117
+1672673141-29118,Via Campagnola 22,"Via Campagnola 22/b, 6852 Genestrerio",6852,Genestrerio,TI,22.0,6933,Via Campagnola 22 Genestrerio,45.99810791015625,8.924260139465332
+1672672010-23791,Via Campagnola 22,"Via Campagnola 22/B, 6852 Genestrerio",6852,Genestrerio,TI,22.0,5626,Via Campagnola 22 Genestrerio,47.332977294921875,8.339527130126953
+1672672484-26930,Via E.Bossi 50,"Via E.Bossi 50, 6862 Rancate",6862,Rancate,TI,50.0,1630,Via E.Bossi 50 Rancate,46.62322998046875,7.075433731079102
+1672673976-34643,Route de Fontanivent 39,"Route de Fontanivent 39, 1817 Brent",1817,Brent,VD,39.0,1630,Route de Fontanivent 39 Brent,46.62256622314453,7.063138484954834
+1672673979-34663,Route de Fontanivent 39,"Route de Fontanivent 39, 1817 Brent",1817,Brent,VD,39.0,1630,Route de Fontanivent 39 Brent,46.62291717529297,7.064867973327637
+1672673407-30804,Chemin du Pierrier 5,"Chemin du Pierrier 5, 1815 Clarens",1815,Clarens,VD,5.0,2540,Chemin du Pierrier 5 Clarens,47.19192886352539,7.400039196014404
+1672672180-24905,Ruelle de Planchamp-Dessous 9,"Ruelle de Planchamp-Dessous 9, 1815 Clarens",1815,Clarens,VD,9.0,5442,Ruelle de Planchamp-Dessous 9 Clarens,47.43981170654297,8.291731834411621
+1672673944-34424,Breitenbachstrasse 28,"Breitenbachstrasse 28, 4242 Laufen",4242,Laufen,BL,28.0,6525,Breitenbachstrasse 28 Laufen,46.23321533203125,9.021425247192383
+1672673944-34425,Breitenbachstrasse 28,"Breitenbachstrasse 28, 4242 Laufen",4242,Laufen,BL,28.0,8636,Breitenbachstrasse 28 Laufen,47.27445983886719,8.920184135437012
+1672673853-33826,Delsbergerstrasse 52,"Delsbergerstrasse 52, 4242 Laufen",4242,Laufen,BL,52.0,8637,Delsbergerstrasse 52 Laufen,47.26592254638672,8.932419776916504
+1672672568-27466,Sankt Martinsweg 7,"Sankt Martinsweg 7, 4242 Laufen",4242,Laufen,BL,7.0,8637,Sankt Martinsweg 7 Laufen,47.26683044433594,8.927092552185059
+1672671846-22681,Jurastrasse 47,"Jurastrasse 47, 4242 Laufen",4242,Laufen,BL,47.0,6833,Jurastrasse 47 Laufen,45.84064483642578,9.030498504638672
+1672671846-22685,Röschenzstrasse 24,"Röschenzstrasse 24, 4242 Laufen",4242,Laufen,BL,24.0,6596,Röschenzstrasse 24 Laufen,46.182044982910156,8.859394073486328
+1672673973-34623,Rütiweg 2,"Rütiweg 2, 3072 Ostermundigen",3072,Ostermundigen,BE,2.0,6596,Rütiweg 2 Ostermundigen,46.18115234375,8.876298904418945
+1672673973-34624,Rütiweg 2,"Rütiweg 2, 3072 Ostermundigen",3072,Ostermundigen,BE,2.0,6596,Rütiweg 2 Ostermundigen,46.182743072509766,8.86660385131836
+1672673973-34622,Rütiweg 2,"Rütiweg 2, 3072 Ostermundigen",3072,Ostermundigen,BE,2.0,5420,Rütiweg 2 Ostermundigen,47.50374984741211,8.346521377563477
+1672673914-34229,Hauptstrasse 23,"Hauptstrasse 23, 8274 Tägerwilen",8274,Gottlieben,TG,23.0,5420,Hauptstrasse 23 Gottlieben,47.496917724609375,8.340130805969238
+1672673914-34228,Hauptstrasse 23,"Hauptstrasse 23, 8274 Tägerwilen",8274,Gottlieben,TG,23.0,5420,Hauptstrasse 23 Gottlieben,47.50221252441406,8.34295654296875
+1672673799-33440,Hauptstrasse 23,"Hauptstrasse 23, 8274 Tägerwilen",8274,Gottlieben,TG,23.0,5420,Hauptstrasse 23 Gottlieben,47.4973258972168,8.340518951416016
+1672673801-33477,Hauptstrasse 23,"Hauptstrasse 23, 8274 Tägerwilen",8274,Gottlieben,TG,23.0,6998,Hauptstrasse 23 Gottlieben,45.99359130859375,8.821565628051758
+1672673801-33478,Hauptstrasse 23,"Hauptstrasse 23, 8274 Tägerwilen",8274,Gottlieben,TG,23.0,6998,Hauptstrasse 23 Gottlieben,45.996124267578125,8.803498268127441
+1672673801-33479,Hauptstrasse 23,"Hauptstrasse 23, 8274 Tägerwilen",8274,Gottlieben,TG,23.0,6980,Hauptstrasse 23 Gottlieben,45.99349594116211,8.839385032653809
+1672673932-34355,Bergstrasse 27,"Bergstrasse 27, 5036 Oberentfelden",5036,Oberentfelden,AG,27.0,9320,Bergstrasse 27 Oberentfelden,47.529869079589844,9.402791023254395
+1672673932-34356,Bergstrasse 27,"Bergstrasse 27, 5036 Oberentfelden",5036,Oberentfelden,AG,27.0,9320,Bergstrasse 27 Oberentfelden,47.52299499511719,9.409835815429688
+1672673965-34564,Büchelstrasse 19a,"Büchelstrasse 19a, 8717 Benken SG",8717,Benken SG,SG,19.0,9320,Büchelstrasse 19a Benken SG,47.51053237915039,9.432323455810547
+1672673631-32277,Schönaustrasse 2,"Schönaustrasse 2, 8717 Benken SG",8717,Benken SG,SG,2.0,9320,Schönaustrasse 2 Benken SG,47.52104949951172,9.424721717834473
+1672672362-26109,Grünaustrasse 1,"Grünaustrasse 1, 8717 Benken",8717,Benken SG,SG,1.0,9320,Grünaustrasse 1 Benken SG,47.51674270629883,9.431374549865723
+1672672362-26110,Grünaustrasse 3,"Grünaustrasse 3, 8717 Benken SG",8717,Benken SG,SG,3.0,9320,Grünaustrasse 3 Benken SG,47.51615905761719,9.435985565185547
+1672672362-26112,Büchelstrasse 10,"Büchelstrasse 10, 8717 Benken SG",8717,Benken SG,SG,10.0,6830,Büchelstrasse 10 Benken SG,45.83247375488281,9.019761085510254
+1672672542-27311,Trottenweg 10,"Trottenweg 10, 5610 Wohlen",5610,Wohlen AG,AG,10.0,6830,Trottenweg 10 Wohlen AG,45.834354400634766,9.030840873718262
+1672673750-33117,Kesselackerstrasse 16,"Kesselackerstrasse 16, 5611 Anglikon",5611,Anglikon,AG,16.0,6830,Kesselackerstrasse 16 Anglikon,45.834354400634766,9.030840873718262
+1672672433-26609,Unterdorfstrasse 18,"Unterdorfstrasse 18, 5611 Anglikon",5611,Anglikon,AG,18.0,6830,Unterdorfstrasse 18 Anglikon,45.836605072021484,9.032498359680176
+1672673024-28315,Winterthurerstrasse 32,"Winterthurerstrasse 32, 8605 Gutenswil",8605,Gutenswil,ZH,32.0,6830,Winterthurerstrasse 32 Gutenswil,45.834354400634766,9.030840873718262
+1672673024-28316,Egggasse 8,"Egggasse 8, 8605 Gutenswil",8605,Gutenswil,ZH,8.0,6830,Egggasse 8 Gutenswil,45.834354400634766,9.030840873718262
+1672673024-28317,Winterthurerstrasse 32,"Winterthurerstrasse 32, 8605 Gutenswil",8605,Gutenswil,ZH,32.0,6830,Winterthurerstrasse 32 Gutenswil,45.833648681640625,9.023838996887207
+1672673024-28318,Winterthurerstrasse 32,"Winterthurerstrasse 32, 8605 Gutenswil",8605,Gutenswil,ZH,32.0,6830,Winterthurerstrasse 32 Gutenswil,45.82920455932617,9.033376693725586
+1672671935-23308,Hauflandweg 21,"Hauflandweg 21, 8605 Gutenswil",8605,Gutenswil,ZH,21.0,6832,Hauflandweg 21 Gutenswil,45.82769012451172,9.01147747039795
+1672673920-34268,Sanggenbühl 18,"Sanggenbühl 18, 3655 Sigriswil",3655,Sigriswil,BE,18.0,5619,Sanggenbühl 18 Sigriswil,47.32942581176758,8.273652076721191
+1672672985-28027,Haldenweg 11b,"Haldenweg 11b, 3656 Hünibach",3656,Tschingel ob Gunten,BE,11.0,5619,Haldenweg 11b Tschingel ob Gunten,47.32935333251953,8.272757530212402
+1672673926-34312,Schönenbachstrasse 15,"Schönenbachstrasse 15, 4153 Reinach BL",4153,Reinach BL,BL,15.0,5619,Schönenbachstrasse 15 Reinach BL,47.32935333251953,8.272757530212402
+1672673926-34310,In der Haselmatte 4,"In der Haselmatte 4, 4153 Reinach BL",4153,Reinach BL,BL,4.0,5619,In der Haselmatte 4 Reinach BL,47.32935333251953,8.272757530212402
+1672671593-21097,Unterdorf 5,"Unterdorf 5, 8752 Näfels",8752,Näfels,GL,5.0,8308,Unterdorf 5 Näfels,47.40638732910156,8.717824935913086
+1672671593-21099,Giessenbrücke 17a,"Giessenbrücke 17a, 8752 Näfels",8752,Näfels,GL,17.0,8308,Giessenbrücke 17a Näfels,47.40638732910156,8.717824935913086
+1672672340-25960,Holdernstrasse 17,"Holdernstrasse 17, 8865 Bilten",8865,Bilten,GL,17.0,8307,Holdernstrasse 17 Bilten,47.43017578125,8.692014694213867
+1672672340-25962,Am Bach 9,"Am Bach 9, 8865 Bilten",8865,Bilten,GL,9.0,8917,Am Bach 9 Bilten,47.312435150146484,8.390932083129883
+1672672558-27406,Im Giessen 15a,"Im Giessen 15a, 8868 Oberurnen",8868,Oberurnen,GL,15.0,8536,Im Giessen 15a Oberurnen,47.6087760925293,8.872184753417969
+1672672558-27407,Weidstrasse 1b,"Weidstrasse 1b, 8868 Oberurnen",8868,Oberurnen,GL,1.0,8536,Weidstrasse 1b Oberurnen,47.6087760925293,8.872184753417969
+1672671577-20982,Dorf 7,"Dorf 7, 8758 Obstalden",8758,Obstalden,GL,7.0,8536,Dorf 7 Obstalden,47.6087760925293,8.872184753417969
+1672671602-21144,Badstrasse 29,"Badstrasse 29, 8867 Niederurnen",8867,Niederurnen,GL,29.0,8536,Badstrasse 29 Niederurnen,47.6087760925293,8.872184753417969
+1672671602-21145,Zindelwiese 4,"Zindelwiese 4, 8867 Niederurnen",8867,Niederurnen,GL,4.0,8537,Zindelwiese 4 Niederurnen,47.627227783203125,8.829261779785156
+1672673948-34453,Mülibüüne 8,"Mülibüüne 8, 3422 Kirchberg BE",3422,Kirchberg BE,BE,8.0,5024,Mülibüüne 8 Kirchberg BE,47.40418243408203,8.04920482635498
+1672673768-33231,Neumattstrasse 33,"Neumattstrasse 33, 3422 Alchenflüh",3422,Kirchberg BE,BE,33.0,5024,Neumattstrasse 33 Kirchberg BE,47.405059814453125,8.051355361938477
+1672671883-22952,Bütikofenstrasse 3,"Bütikofenstrasse 3, 3422 Kirchberg BE",3422,Kirchberg BE,BE,3.0,5024,Bütikofenstrasse 3 Kirchberg BE,47.40423583984375,8.04997730255127
+1672673908-34185,Dorfstrasse 18,"Dorfstrasse 18, 8185 Winkel",8185,Winkel,ZH,18.0,7180,Dorfstrasse 18 Winkel,46.7163200378418,8.896571159362793
+1672673962-34547,Rebmoosweg 9,"Rebmoosweg 9, 5200 Brugg AG",5200,Brugg AG,AG,9.0,8400,Rebmoosweg 9 Brugg AG,47.50956726074219,8.725560188293457
+1672673550-31706,Zurzacherstrasse 70,"Zurzacherstrasse 70, 5200 Brugg",5200,Brugg AG,AG,70.0,8405,Zurzacherstrasse 70 Brugg AG,47.48676300048828,8.764923095703125
+1672673550-31707,Süssbachweg 2,"Süssbachweg 2, 5200 Brugg AG",5200,Brugg AG,AG,2.0,8405,Süssbachweg 2 Brugg AG,47.48584747314453,8.773406982421875
+1672673550-31708,Dorfstrasse 43,"Dorfstrasse 43, 5200 Brugg AG",5200,Brugg AG,AG,43.0,8405,Dorfstrasse 43 Brugg AG,47.46280288696289,8.777587890625
+1672673550-31709,Promenade 26,"Promenade 26, 5200 Brugg AG",5200,Brugg AG,AG,26.0,8404,Promenade 26 Brugg AG,47.51913070678711,8.762249946594238
+1672672455-26752,Abtwilerstrasse 1,"Abtwilerstrasse 1, 5645 Aettenschwil",5645,Aettenschwil,AG,1.0,6594,Abtwilerstrasse 1 Aettenschwil,46.148597717285156,8.923791885375977
+1672672455-26753,Abtwilerstrasse 1,"Abtwilerstrasse 1, 5645 Aettenschwil",5645,Aettenschwil,AG,1.0,6578,Abtwilerstrasse 1 Aettenschwil,46.106361389160156,8.765618324279785
+1672673917-34253,Schulwiesstrasse 3,"Schulwiesstrasse 3, 8162 Steinmaur",8162,Steinmaur,ZH,3.0,5736,Schulwiesstrasse 3 Steinmaur,47.23384094238281,8.179609298706055
+1672673917-34254,Schulwiesstrasse 3,"Schulwiesstrasse 3, 8162 Steinmaur",8162,Steinmaur,ZH,3.0,5736,Schulwiesstrasse 3 Steinmaur,47.239505767822266,8.180316925048828
+1672673917-34252,Schulwiesstrasse 3,"Schulwiesstrasse 3, 8162 Steinmaur",8162,Steinmaur,ZH,3.0,8344,Schulwiesstrasse 3 Steinmaur,47.33777618408203,8.847041130065918
+1672673920-34277,Via Cortivallo 26,"Via Cortivallo 26, 6924 Sorengo",6924,Sorengo,TI,26.0,8344,Via Cortivallo 26 Sorengo,47.337013244628906,8.853507041931152
+1672673932-34345,Wilerstrasse 33,"Wilerstrasse 33, 9542 Münchwilen TG",9542,Münchwilen TG,TG,33.0,8344,Wilerstrasse 33 Münchwilen TG,47.35095977783203,8.866284370422363
+1672671616-21255,Rebenacker 25,"Rebenacker 25, 9542 Münchwilen TG",9542,Münchwilen TG,TG,25.0,8344,Rebenacker 25 Münchwilen TG,47.33979415893555,8.849359512329102
+1672671821-22534,Grabenstrasse 16,"Grabenstrasse 16, 5426 Lengnau AG",5426,Lengnau AG,AG,16.0,1092,Grabenstrasse 16 Lengnau AG,46.519775390625,6.680387020111084
+1672673957-34518,Rappenmööslistrasse 30,"Rappenmööslistrasse 30, 8840 Einsiedeln",8840,Einsiedeln,SZ,30.0,1092,Rappenmööslistrasse 30 Einsiedeln,46.52397537231445,6.679244041442871
+1672673218-29595,Austrasse 3c,"Austrasse 3c, 8840 Einsiedeln",8840,Einsiedeln,SZ,3.0,3902,Austrasse 3c Einsiedeln,46.312557220458984,7.986860275268555
+1672673218-29596,Schnabelsbergstrasse 57,"Schnabelsbergstrasse 57, 8840 Einsiedeln",8840,Einsiedeln,SZ,57.0,3902,Schnabelsbergstrasse 57 Einsiedeln,46.31106185913086,7.972832679748535
+1672673034-28396,Grosserstrasse 61,"Grosserstrasse 61, 8841 Gross SZ",8841,Gross,SZ,61.0,8187,Grosserstrasse 61 Gross,47.55391311645508,8.44381046295166
+1672673192-29438,Euthalerstrasse 11,"Euthalerstrasse 11, 8844 Euthal",8844,Euthal,SZ,11.0,8842,Euthalerstrasse 11 Euthal,47.05937576293945,8.803988456726074
+1672673192-29439,Euthalerstrasse 11,"Euthalerstrasse 11, 8844 Euthal",8844,Euthal,SZ,11.0,6033,Euthalerstrasse 11 Euthal,47.09349822998047,8.339210510253906
+1672673920-34261,Schützenmattweg 3,"Schützenmattweg 3, 5040 Schöftland",5040,Schöftland,AG,3.0,6517,Schützenmattweg 3 Schöftland,46.21318054199219,9.048541069030762
+1672673807-33505,Hermenweg 6,"Hermenweg 6, 5040 Schöftland",5040,Schöftland,AG,6.0,6517,Hermenweg 6 Schöftland,46.21318054199219,9.048541069030762
+1672673962-34553,Hauptstrasse 11A,"Hauptstrasse 11A, 8371 Busswil TG",8371,Busswil TG,TG,11.0,6517,Hauptstrasse 11A Busswil TG,46.21318054199219,9.048541069030762
+1672673531-31580,Hauptstrasse 11A,"Hauptstrasse 11A, 8371 Busswil TG",8371,Busswil TG,TG,11.0,6517,Hauptstrasse 11A Busswil TG,46.21318054199219,9.048541069030762
+1672671580-21000,Yumo-Park 2,"Yumo-Park 2, 5415 Obersiggenthal / Nussbaumen bei Baden",5415,Nussbaumen AG,AG,2.0,9050,Yumo-Park 2 Nussbaumen AG,47.33092498779297,9.397801399230957
+1672672545-27323,Bauhaldenstrasse 27a,"Bauhaldenstrasse 27a, 5417 Untersiggenthal",5417,Untersiggenthal,AG,27.0,9050,Bauhaldenstrasse 27a Untersiggenthal,47.332618713378906,9.3953275680542
+1672673125-29013,Allée Pic-Pic 2,"Allée Pic-Pic 2, 1203 Genève",1203,Genève,GE,2.0,4055,Allée Pic-Pic 2 Genève,47.55767059326172,7.5770463943481445
+1672673954-34496,Rue de la Cloche 6,"Rue de la Cloche 6, 1201 Genève",1201,Genève,GE,6.0,4055,Rue de la Cloche 6 Genève,47.559547424316406,7.573273658752441
+1672673954-34497,Rue de la Cloche 6,"Rue de la Cloche 6, 1201 Genève",1201,Genève,GE,6.0,4053,Rue de la Cloche 6 Genève,47.54043960571289,7.5875959396362305
+1672673131-29051,Quai du Seujet 12,"Quai du Seujet 12, 1201 Genève",1201,Genève,GE,12.0,8172,Quai du Seujet 12 Genève,47.491939544677734,8.501553535461426
+1672673128-29035,9130405,"9130405, 1202 Genève",1202,Genève,GE,9130405.0,6043,9130405 Genève,47.075958251953125,8.360583305358887
+1672673119-28961,Avenue de Miremont 26,"Avenue de Miremont 26, 1206 Genève",1206,Genève,GE,26.0,7250,Avenue de Miremont 26 Genève,46.8714485168457,9.882102012634277
+1672673971-34619,Birseckstrasse 41,"Birseckstrasse 41, 4144 Arlesheim",4144,Arlesheim,BL,41.0,8722,Birseckstrasse 41 Arlesheim,47.21335220336914,9.022339820861816
+1672673968-34580,Birseckstrasse 41,"Birseckstrasse 41, 4144 Arlesheim",4144,Arlesheim,BL,41.0,3718,Birseckstrasse 41 Arlesheim,46.49909210205078,7.673626899719238
+1672673722-32912,General Guisan-Strasse 22,"General Guisan-Strasse 22, 4144 Arlesheim",4144,Arlesheim,BL,22.0,3718,General Guisan-Strasse 22 Arlesheim,46.49795913696289,7.677029132843018
+1672673722-32913,Im Lee 36,"Im Lee 36, 4144 Arlesheim",4144,Arlesheim,BL,36.0,4616,Im Lee 36 Arlesheim,47.32503128051758,7.844931125640869
+1672673722-32914,Bärenbrunnenweg 1-33,"Bärenbrunnenweg 1-33, 4144 Arlesheim",4144,Arlesheim,BL,1.0,3122,Bärenbrunnenweg 1-33 Arlesheim,46.913536071777344,7.472393989562988
+1672673722-32915,Hauptstrasse 45,"Hauptstrasse 45, 4144 Arlesheim",4144,Arlesheim,BL,45.0,3122,Hauptstrasse 45 Arlesheim,46.913936614990234,7.468618392944336
+1672673722-32917,Bärenbrunnenweg 1-33,"Bärenbrunnenweg 1-33, 4144 Arlesheim",4144,Arlesheim,BL,1.0,3122,Bärenbrunnenweg 1-33 Arlesheim,46.913963317871094,7.473110675811768
+1672672587-27582,Rüttiweg 52,"Rüttiweg 52, 4144 Arlesheim",4144,Arlesheim,BL,52.0,3122,Rüttiweg 52 Arlesheim,46.913963317871094,7.473110675811768
+1672672412-26467,Hangstrasse 1,"Hangstrasse 1, 4144 Arlesheim",4144,Arlesheim,BL,1.0,3122,Hangstrasse 1 Arlesheim,46.91792678833008,7.473904132843018
+1672672999-28121,Wihaldenstrasse 9,"Wihaldenstrasse 9, 8340 Hinwil",8340,Hinwil,ZH,9.0,8916,Wihaldenstrasse 9 Hinwil,47.29525375366211,8.39210033416748
+1672672999-28122,Alte Zihlstrasse 4b,"Alte Zihlstrasse 4b, 8340 Hinwil",8340,Hinwil,ZH,4.0,9243,Alte Zihlstrasse 4b Hinwil,47.42253112792969,9.088571548461914
+1672672999-28123,Walderstrasse 43C,"Walderstrasse 43C, 8340 Hinwil",8340,Hinwil,ZH,43.0,4303,Walderstrasse 43C Hinwil,47.53623580932617,7.725790023803711
+1672673001-28159,Edikerstrasse 3B,"Edikerstrasse 3B, 8340 Hinwil",8340,Hinwil,ZH,3.0,3303,Edikerstrasse 3B Hinwil,47.04654312133789,7.5038957595825195
+1672672594-27631,Lenzdörfli 6,"Lenzdörfli 6, 8340 Hinwil",8340,Hinwil,ZH,6.0,3303,Lenzdörfli 6 Hinwil,47.05684280395508,7.511261940002441
+1672672598-27651,Lenzdörfli 6,"Lenzdörfli 6, 8340 Hinwil",8340,Hinwil,ZH,6.0,6034,Lenzdörfli 6 Hinwil,47.124000549316406,8.34882640838623
+1672671914-23160,Walderstrasse 37h,"Walderstrasse 37h, 8340 Hinwil",8340,Hinwil,ZH,37.0,6034,Walderstrasse 37h Hinwil,47.124000549316406,8.34882640838623
+1672671914-23161,Dürntnerstrasse 57,"Dürntnerstrasse 57, 8340 Hinwil",8340,Hinwil,ZH,57.0,6934,Dürntnerstrasse 57 Hinwil,46.00495529174805,8.914178848266602
+1672671914-23163,Holzweidweg 7,"Holzweidweg 7, 8340 Hinwil",8340,Hinwil,ZH,7.0,6934,Holzweidweg 7 Hinwil,46.01791763305664,8.909109115600586
+1672671914-23166,Atenbüelweg 15,"Atenbüelweg 15, 8340 Hinwil",8340,Hinwil,ZH,15.0,6992,Atenbüelweg 15 Hinwil,46.00986862182617,8.896454811096191
+1672673944-34423,Hauptstrasse 22,"Hauptstrasse 22, 8246 Langwiesen",8246,Langwiesen,ZH,22.0,8544,Hauptstrasse 22 Langwiesen,47.53672409057617,8.794750213623047
+1672673954-34483,Kirchweg 93,"Kirchweg 93, 8245 Feuerthalen",8245,Feuerthalen,ZH,93.0,4452,Kirchweg 93 Feuerthalen,47.46687316894531,7.788067817687988
+1672673178-29350,Forbüelstrasse 14,"Forbüelstrasse 14, 8245 Feuerthalen",8245,Feuerthalen,ZH,14.0,4452,Forbüelstrasse 14 Feuerthalen,47.46574401855469,7.792016983032227
+1672673178-29351,Kirchweg 91,"Kirchweg 91, 8245 Feuerthalen",8245,Feuerthalen,ZH,91.0,4452,Kirchweg 91 Feuerthalen,47.46613311767578,7.791517734527588
+1672673965-34572,Höhenweg 23,"Höhenweg 23, 4102 Binningen",4102,Binningen,BL,23.0,3063,Höhenweg 23 Binningen,46.98292922973633,7.476433277130127
+1672673965-34574,Schafmattweg 104,"Schafmattweg 104, 4102 Binningen",4102,Binningen,BL,104.0,3063,Schafmattweg 104 Binningen,46.973541259765625,7.476849555969238
+1672673965-34575,Schafmattweg 104,"Schafmattweg 104, 4102 Binningen",4102,Binningen,BL,104.0,3063,Schafmattweg 104 Binningen,46.97153854370117,7.475913047790527
+1672673605-32080,Waldeckweg 26,"Waldeckweg 26, 4102 Binningen",4102,Binningen,BL,26.0,3375,Waldeckweg 26 Binningen,47.19747543334961,7.672005653381348
+1672673605-32081,Bleicherweg 21,"Bleicherweg 21, 4102 Binningen",4102,Binningen,BL,21.0,3375,Bleicherweg 21 Binningen,47.19952392578125,7.677186965942383
+1672673605-32083,Schafmattweg 104,"Schafmattweg 104, 4102 Binningen",4102,Binningen,BL,104.0,3619,Schafmattweg 104 Binningen,46.78510665893555,7.829120635986328
+1672673605-32089,Langegasse 55,"Langegasse 55, 4102 Binningen",4102,Binningen,BL,55.0,6331,Langegasse 55 Binningen,47.177181243896484,8.421764373779297
+1672673605-32091,Schafmattweg 104,"Schafmattweg 104, 4102 Binningen",4102,Binningen,BL,104.0,8194,Schafmattweg 104 Binningen,47.59809494018555,8.493069648742676
+1672673605-32092,Bottmingerstrasse 49,"Bottmingerstrasse 49, 4102 Binningen",4102,Binningen,BL,49.0,1977,Bottmingerstrasse 49 Binningen,46.28767395019531,7.441315174102783
+1672673605-32094,Bottmingerstrasse 49,"Bottmingerstrasse 49, 4102 Binningen",4102,Binningen,BL,49.0,7206,Bottmingerstrasse 49 Binningen,46.94807815551758,9.576062202453613
+1672673605-32095,Bündtenmattstrasse 47,"Bündtenmattstrasse 47, 4102 Binningen",4102,Binningen,BL,47.0,7302,Bündtenmattstrasse 47 Binningen,46.9639892578125,9.5585355758667
+1672673605-32096,Langegasse 55,"Langegasse 55, 4102 Binningen",4102,Binningen,BL,55.0,7302,Langegasse 55 Binningen,46.9639892578125,9.5585355758667
+1672673605-32097,Schafmattweg 104,"Schafmattweg 104, 4102 Binningen",4102,Binningen,BL,104.0,1987,Schafmattweg 104 Binningen,46.18557357788086,7.393742084503174
+1672673605-32098,Waldeckweg 31,"Waldeckweg 31, 4102 Binningen",4102,Binningen,BL,31.0,1982,Waldeckweg 31 Binningen,46.17229080200195,7.420030117034912
+1672673605-32099,Margarethenstrasse 35,"Margarethenstrasse 35, 4102 Binningen",4102,Binningen,BL,35.0,1982,Margarethenstrasse 35 Binningen,46.17229080200195,7.420030117034912
+1672673607-32115,Bollwerkstrasse 60,"Bollwerkstrasse 60, 4102 Binningen",4102,Binningen,BL,60.0,1982,Bollwerkstrasse 60 Binningen,46.17229080200195,7.420030117034912
+1672673607-32117,Bleicherweg 21,"Bleicherweg 21, 4102 Binningen",4102,Binningen,BL,21.0,4434,Bleicherweg 21 Binningen,47.41999816894531,7.764988899230957
+1672673607-32118,Bottmingerstrasse 49,"Bottmingerstrasse 49, 4102 Binningen",4102,Binningen,BL,49.0,4434,Bottmingerstrasse 49 Binningen,47.42208480834961,7.772426605224609
+1672673607-32119,Bachmattenstrasse 34,"Bachmattenstrasse 34, 4102 Binningen",4102,Binningen,BL,34.0,8181,Bachmattenstrasse 34 Binningen,47.50448226928711,8.498950958251953
+1672673890-34062,Bottmingerstrasse 49,"Bottmingerstrasse 49, 4102 Binningen",4102,Binningen,BL,49.0,5502,Bottmingerstrasse 49 Binningen,47.387672424316406,8.121813774108887
+1672672340-25967,Rottmannsbodenstrasse 59,"Rottmannsbodenstrasse 59, 4102 Binningen",4102,Binningen,BL,59.0,5502,Rottmannsbodenstrasse 59 Binningen,47.38377380371094,8.123144149780273
+1672673954-34481,Hauptststrasse 33 a+b,"Hauptststrasse 33 a+b, 8272 Ermatingen",8272,Ermatingen,TG,33.0,6280,Hauptststrasse 33 a+b Ermatingen,47.16948699951172,8.278701782226562
+1672673198-29465,Seeblickstrasse 8,"Seeblickstrasse 8, 8272 Ermatingen",8272,Ermatingen,TG,8.0,8182,Seeblickstrasse 8 Ermatingen,47.520965576171875,8.518613815307617
+1672673500-31380,6140914,"6140914, 6952 Canobbio",6952,Canobbio,TI,6140914.0,8704,6140914 Canobbio,47.295013427734375,8.607246398925781
+1672673503-31412,via Giuseppe Buffi 2,"via Giuseppe Buffi 2, 6952 Canobbio",6952,Canobbio,TI,2.0,5613,via Giuseppe Buffi 2 Canobbio,47.33168411254883,8.247668266296387
+1672673503-31415,Via Circonvallazione 4,"Via Circonvallazione 4, 6952 Canobbio",6952,Canobbio,TI,4.0,5604,Via Circonvallazione 4 Canobbio,47.3849983215332,8.218744277954102
+1672672248-25344,Vicolo Vecchio 2,"Vicolo Vecchio 2, 6952 Canobbio",6952,Canobbio,TI,2.0,1997,Vicolo Vecchio 2 Canobbio,46.184181213378906,7.291529655456543
+1672673929-34323,Storchenweg 1,"Storchenweg 1, 3, 5, 9, 11, 13, 15 / Bertschenacker 11, 13, 15, 4104 Oberwil BL",4104,Oberwil BL,BL,1.0,1996,Storchenweg 1 Oberwil BL,46.18796157836914,7.307945728302002
+1672673929-34324,Storchenweg 1,"Storchenweg 1, 3, 5, 9, 11, 13, 15 / Bertschenacker 11, 13, 15, 4104 Oberwil BL",4104,Oberwil BL,BL,1.0,1996,Storchenweg 1 Oberwil BL,46.19021987915039,7.312320709228516
+1672673929-34325,Storchenweg 1,"Storchenweg 1, 3, 5, 9, 11, 13, 15 / Bertschenacker 11, 13, 15, 4104 Oberwil BL",4104,Oberwil BL,BL,1.0,9435,Storchenweg 1 Oberwil BL,47.41459655761719,9.630585670471191
+1672673929-34320,Storchenweg 1,"Storchenweg 1, 3, 5, 9, 11, 13, 15 / Bertschenacker 11, 13, 15, 4104 Oberwil BL",4104,Oberwil BL,BL,1.0,9434,Storchenweg 1 Oberwil BL,47.431785583496094,9.633647918701172
+1672673929-34321,Storchenweg 1,"Storchenweg 1, 3, 5, 9, 11, 13, 15 / Bertschenacker 11, 13, 15, 4104 Oberwil BL",4104,Oberwil BL,BL,1.0,9434,Storchenweg 1 Oberwil BL,47.431514739990234,9.633309364318848
+1672673929-34322,Bündtenweg 11,"Bündtenweg 11, 4104 Oberwil BL",4104,Oberwil BL,BL,11.0,9434,Bündtenweg 11 Oberwil BL,47.431514739990234,9.633309364318848
+1672673821-33604,Binningerstrasse 45,"Binningerstrasse 45, 4104 Oberwil",4104,Oberwil BL,BL,45.0,9434,Binningerstrasse 45 Oberwil BL,47.437374114990234,9.632462501525879
+1672671580-21007,In den Bündten 15,"In den Bündten 15, 4104 Oberwil",4104,Oberwil BL,BL,15.0,9434,In den Bündten 15 Oberwil BL,47.431785583496094,9.633647918701172
+1672671580-21008,Nelkenweg 1,"Nelkenweg 1, 4104 Oberwil",4104,Oberwil BL,BL,1.0,9434,Nelkenweg 1 Oberwil BL,47.43962478637695,9.639165878295898
+1672671580-21011,Bielstrasse 80,"Bielstrasse 80, 4104 Oberwil BL",4104,Oberwil BL,BL,80.0,3627,Bielstrasse 80 Oberwil BL,46.78245162963867,7.607433795928955
+1672673911-34218,Richtiarkade 9,"Richtiarkade 9, 8304 Wallisellen",8304,Wallisellen,ZH,9.0,8925,Richtiarkade 9 Wallisellen,47.22815704345703,8.5484619140625
+1672673911-34217,Föhrlibuckstr. 7,"Föhrlibuckstr. 7, 8304 Wallisellen",8304,Wallisellen,ZH,7.0,8925,Föhrlibuckstr. 7 Wallisellen,47.228416442871094,8.54793930053711
+1672671561-20893,Via Vignole 33,"Via Vignole 33, 6644 Orselina",6644,Orselina,TI,33.0,6330,Via Vignole 33 Orselina,47.19176483154297,8.454569816589355
+1672672371-26168,Hasenbergstrasse 13A,"Hasenbergstrasse 13A, 5454 Bellikon",5454,Bellikon,AG,13.0,6330,Hasenbergstrasse 13A Bellikon,47.19200897216797,8.454362869262695
+1672673547-31688,Friedheimstrasse 3,"Friedheimstrasse 3, 8608 Bubikon",8608,Bubikon,ZH,3.0,7000,Friedheimstrasse 3 Bubikon,46.8488883972168,9.519796371459961
+1672673547-31689,Friedheimstrasse 3,"Friedheimstrasse 3, 8608 Bubikon",8608,Bubikon,ZH,3.0,7000,Friedheimstrasse 3 Bubikon,46.849117279052734,9.51978874206543
+1672673547-31690,Friedheimstrasse 3,"Friedheimstrasse 3, 8608 Bubikon",8608,Bubikon,ZH,3.0,7000,Friedheimstrasse 3 Bubikon,46.84938049316406,9.519759178161621
+1672673547-31691,Friedheimstrasse 3,"Friedheimstrasse 3, 8608 Bubikon",8608,Bubikon,ZH,3.0,7000,Friedheimstrasse 3 Bubikon,46.849117279052734,9.51978874206543
+1672672280-25564,Rutschbergstrasse 10,"Rutschbergstrasse 10, 8608 Bubikon",8608,Bubikon,ZH,10.0,7026,Rutschbergstrasse 10 Bubikon,46.83881378173828,9.563420295715332
+1672672971-27922,Dorfstrasse 14,"Dorfstrasse 14, 5082 Kaisten",5082,Kaisten,AG,14.0,6166,Dorfstrasse 14 Kaisten,46.980628967285156,8.055242538452148
+1672671885-22961,Dorfstrasse 4,"Dorfstrasse 4, 5082 Kaisten",5082,Kaisten,AG,4.0,3415,Dorfstrasse 4 Kaisten,47.01480484008789,7.644988536834717
+1672671885-22962,Adlergasse 14,"Adlergasse 14, 5082 Kaisten",5082,Kaisten,AG,14.0,9213,Adlergasse 14 Kaisten,47.480735778808594,9.249650001525879
+1672671885-22963,Eichmattweg 20,"Eichmattweg 20, 5082 Kaisten",5082,Kaisten,AG,20.0,9213,Eichmattweg 20 Kaisten,47.480552673339844,9.249831199645996
+1672673926-34318,Lörracherstrasse 162,"Lörracherstrasse 162, 4125 Riehen",4125,Riehen,BS,162.0,3645,Lörracherstrasse 162 Riehen,46.729217529296875,7.628706932067871
+1672673926-34316,Lörracherstrasse 162,"Lörracherstrasse 162, 4125 Riehen",4125,Riehen,BS,162.0,3645,Lörracherstrasse 162 Riehen,46.729217529296875,7.628706932067871
+1672672554-27389,Kirchstrasse 11,"Kirchstrasse 11, 4125 Riehen",4125,Riehen,BS,11.0,1251,Kirchstrasse 11 Riehen,46.25019073486328,6.255300521850586
+1672672484-26936,Moosweg 50,"Moosweg 50, 4125 Riehen",4125,Riehen,BS,50.0,1251,Moosweg 50 Riehen,46.25019073486328,6.255300521850586
+1672673077-28687,9110418,"9110418, 1196 Gland",1196,Gland,VD,9110418.0,7215,9110418 Gland,46.985389709472656,9.663908004760742
+1672671985-23631,Route du Pont 2,"Route du Pont 2, 1196 Gland",1196,Gland,VD,2.0,5722,Route du Pont 2 Gland,47.359676361083984,8.104187965393066
+1672673038-28405,Route des Rahas 20,"Route des Rahas 20, 3961 Grimentz",3961,Vissoie,VS,20.0,3818,Route des Rahas 20 Vissoie,46.625633239746094,8.021366119384766
+1672673040-28421,Rue de la Télécabine 8,"Rue de la Télécabine 8, 3961 Grimentz",3961,Vissoie,VS,8.0,6537,Rue de la Télécabine 8 Vissoie,46.24610137939453,9.143827438354492
+1672673040-28423,Route des Fioz 35,"Route des Fioz 35, 3961 Grimentz",3961,Vissoie,VS,35.0,1971,Route des Fioz 35 Vissoie,46.247493743896484,7.37638521194458
+1672673040-28424,Route de Grand-Combe 105,"Route de Grand-Combe 105, 3961 Grimentz",3961,Vissoie,VS,105.0,1971,Route de Grand-Combe 105 Vissoie,46.247493743896484,7.37638521194458
+1672673040-28428,Route de Grande Combe 105,"Route de Grande Combe 105, 3961 Grimentz",3961,Vissoie,VS,105.0,1971,Route de Grande Combe 105 Vissoie,46.247493743896484,7.37638521194458
+1672673040-28432,Route de Grand-Combe 105,"Route de Grand-Combe 105, 3961 Grimentz",3961,Vissoie,VS,105.0,6404,Route de Grand-Combe 105 Vissoie,47.0576171875,8.429091453552246
+1672673040-28433,Route de Grand-Combe 105,"Route de Grand-Combe 105, 3961 Grimentz",3961,Vissoie,VS,105.0,6404,Route de Grand-Combe 105 Vissoie,47.05757141113281,8.429850578308105
+1672673040-28434,Route des Rahas 25,"Route des Rahas 25, 3961 Grimentz",3961,Vissoie,VS,25.0,6404,Route des Rahas 25 Vissoie,47.05757141113281,8.429850578308105
+1672673791-33380,Route des Cinq 4000,"Route des Cinq 4000, 16, 3961 Zinal",3961,Vissoie,VS,4000.0,4203,Route des Cinq 4000 Vissoie,47.4423828125,7.58173131942749
+1672673858-33878,Route des Rahas 20,"Route des Rahas 20, 3961 Grimentz",3961,Vissoie,VS,20.0,4203,Route des Rahas 20 Vissoie,47.4423828125,7.58173131942749
+1672671680-21652,Route du Moulin 53,"Route du Moulin 53, 3961 Mission",3961,Vissoie,VS,53.0,4203,Route du Moulin 53 Vissoie,47.44419479370117,7.584651470184326
+1672671954-23424,Route de Roua 59,"Route de Roua 59, Grimentz, 3961 Grimentz",3961,Vissoie,VS,59.0,4203,Route de Roua 59 Vissoie,47.4423828125,7.58173131942749
+1672672395-26353,96,"96, route de La Reinda, 3961 Ayer",3961,Vissoie,VS,96.0,6929,96 Vissoie,46.04181671142578,8.917893409729004
+1672672395-26354,Route de Zinal 93,"Route de Zinal 93, 3961 Ayer",3961,Vissoie,VS,93.0,6929,Route de Zinal 93 Vissoie,46.04181671142578,8.917893409729004
+1672672474-26861,Rue du Cougnon 4,"Rue du Cougnon 4, 3961 St-Jean VS",3961,Vissoie,VS,4.0,6929,Rue du Cougnon 4 Vissoie,46.04181671142578,8.917893409729004
+1672673971-34607,Zürichstrasse 77C,"Zürichstrasse 77C, 8134 Adliswil",8134,Adliswil,ZH,77.0,6929,Zürichstrasse 77C Adliswil,46.04181671142578,8.917893409729004
+1672673782-33325,Albisstrasse 32,"Albisstrasse 32, 8134 Adliswil",8134,Adliswil,ZH,32.0,1098,Albisstrasse 32 Adliswil,46.491146087646484,6.747687816619873
+1672673711-32821,Str. Collina 81,"Str. Collina 81, 6612 Ascona",6612,Ascona,TI,81.0,9403,Str. Collina 81 Ascona,47.46925354003906,9.46062183380127
+1672673711-32822,Via Vorame 45,"Via Vorame 45, 6612 Ascona",6612,Ascona,TI,45.0,9403,Via Vorame 45 Ascona,47.46925354003906,9.46062183380127
+1672673711-32825,Via Baraggie 22,"Via Baraggie 22, 6612 Ascona",6612,Ascona,TI,22.0,9403,Via Baraggie 22 Ascona,47.475257873535156,9.477500915527344
+1672673714-32845,Via Baraggie 22,"Via Baraggie 22, 6612 Ascona",6612,Ascona,TI,22.0,2854,Via Baraggie 22 Ascona,47.338687896728516,7.241376876831055
+1672673714-32846,Via Ferrera 12,"Via Ferrera 12, 6612 Ascona",6612,Ascona,TI,12.0,2854,Via Ferrera 12 Ascona,47.338687896728516,7.241376876831055
+1672673714-32847,Via Baraggie 22,"Via Baraggie 22, 6612 Ascona",6612,Ascona,TI,22.0,8750,Via Baraggie 22 Ascona,47.05039978027344,9.059215545654297
+1672673714-32848,Via Baraggie 52,"Via Baraggie 52, 6612 Ascona",6612,Ascona,TI,52.0,8750,Via Baraggie 52 Ascona,47.0401496887207,9.069161415100098
+1672673714-32850,Via Muraccio 130,"Via Muraccio 130, 6612 Ascona",6612,Ascona,TI,130.0,8750,Via Muraccio 130 Ascona,47.04088592529297,9.066596984863281
+1672673714-32852,Via Locarno 25,"Via Locarno 25, 6612 Ascona",6612,Ascona,TI,25.0,8750,Via Locarno 25 Ascona,47.041168212890625,9.068323135375977
+1672673714-32857,Via Medere 4,"Via Medere 4, 6612 Ascona",6612,Ascona,TI,4.0,8755,Via Medere 4 Ascona,47.035953521728516,9.079597473144531
+1672673716-32878,Architetto Pisoni 5,"Architetto Pisoni 5, 6612 Ascona",6612,Ascona,TI,5.0,1735,Architetto Pisoni 5 Ascona,46.76154708862305,7.210866928100586
+1672673898-34129,Via Medere 6,"Via Medere 6, 6612 Ascona",6612,Ascona,TI,6.0,8500,Via Medere 6 Ascona,47.53766632080078,8.876015663146973
+1672672406-26439,Via Moscia 106a,"Via Moscia 106a, 6612 Ascona",6612,Ascona,TI,106.0,8500,Via Moscia 106a Ascona,47.54045104980469,8.878569602966309
+1672673384-30668,Via Preluna 4,"Via Preluna 4, 6949 Comano",6949,Comano,TI,4.0,8854,Via Preluna 4 Comano,47.17531204223633,8.894822120666504
+1672673957-34512,Reichenauerstrasse 9,"Reichenauerstrasse 9, 7013 Domat/Ems",7013,Domat/Ems,GR,9.0,4402,Reichenauerstrasse 9 Domat/Ems,47.50414276123047,7.7213897705078125
+1672673247-29769,Barnaus 13,"Barnaus 13, 7013 Domat/Ems",7013,Domat/Ems,GR,13.0,4402,Barnaus 13 Domat/Ems,47.50414276123047,7.7213897705078125
+1672673247-29770,Barnaus 13,"Barnaus 13, 7013 Domat/Ems",7013,Domat/Ems,GR,13.0,4402,Barnaus 13 Domat/Ems,47.50414276123047,7.7213897705078125
+1672673247-29771,Barnaus 13,"Barnaus 13, 7013 Domat/Ems",7013,Domat/Ems,GR,13.0,4402,Barnaus 13 Domat/Ems,47.50019073486328,7.71419095993042
+1672673247-29773,Sur Rieven 17,"Sur Rieven 17, 7013 Domat/Ems",7013,Domat/Ems,GR,17.0,1297,Sur Rieven 17 Domat/Ems,46.33080291748047,6.1932573318481445
+1672673247-29774,Barnaus 13,"Barnaus 13, 7013 Domat/Ems",7013,Domat/Ems,GR,13.0,3312,Barnaus 13 Domat/Ems,47.08702087402344,7.525562763214111
+1672673247-29775,Barnaus 13,"Barnaus 13, 7013 Domat/Ems",7013,Domat/Ems,GR,13.0,3317,Barnaus 13 Domat/Ems,47.1092643737793,7.4925713539123535
+1672673137-29091,Via Montalbano 15,"Via Montalbano 15, 6925 Gentilino",6925,Gentilino,TI,15.0,9230,Via Montalbano 15 Gentilino,47.41080856323242,9.191773414611816
+1672672003-23751,Via 1,"Via 1, 6925 Gentilino",6925,Gentilino,TI,1.0,6145,Via 1 Gentilino,47.1512451171875,7.9111127853393555
+1672671667-21571,Via Nagra 26,"Via Nagra 26, 6926 Montagnola",6926,Montagnola,TI,26.0,8264,Via Nagra 26 Montagnola,47.64451599121094,8.874865531921387
+1672671667-21574,Via Hermann Hesse 4,"Via Hermann Hesse 4, 6926 Montagnola",6926,Montagnola,TI,4.0,8264,Via Hermann Hesse 4 Montagnola,47.64451599121094,8.874865531921387
+1672671667-21579,Via Nagra 30,"Via Nagra 30, 6926 Montagnola",6926,Montagnola,TI,30.0,8133,Via Nagra 30 Montagnola,47.285865783691406,8.71359920501709
+1672672243-25302,Via Privata 5,"Via Privata 5, 6919 Carabietta",6919,Carabietta,TI,5.0,1667,Via Privata 5 Carabietta,46.558319091796875,7.0832109451293945
+1672673904-34166,Eichrainstrasse 21,"Eichrainstrasse 21, 8052 Zürich",8052,Zürich,ZH,21.0,8424,Eichrainstrasse 21 Zürich,47.50178146362305,8.593876838684082
+1672673791-33386,Schärenmoosstrasse 76,"Schärenmoosstrasse 76, 8052 Zürich",8052,Zürich,ZH,76.0,8424,Schärenmoosstrasse 76 Zürich,47.501529693603516,8.594003677368164
+1672673971-34603,Drusbergstrasse 76,"Drusbergstrasse 76, 8053 Zürich",8053,Zürich,ZH,76.0,8424,Drusbergstrasse 76 Zürich,47.501529693603516,8.594003677368164
+1672673904-34167,Witikonerstrasse 180,"Witikonerstrasse 180, 8053 Zürich",8053,Zürich,ZH,180.0,8424,Witikonerstrasse 180 Zürich,47.50820541381836,8.595017433166504
+1672673904-34165,Ferdinand-Hodler-Strasse 44,"Ferdinand-Hodler-Strasse 44, 8049 Zürich",8049,Zürich,ZH,44.0,8424,Ferdinand-Hodler-Strasse 44 Zürich,47.52151870727539,8.585798263549805
+1672673791-33385,Segantinisteig 3,"Segantinisteig 3, 8049 Zürich",8049,Zürich,ZH,3.0,8424,Segantinisteig 3 Zürich,47.520957946777344,8.582968711853027
+1672673791-33384,Spirgartenstrasse 6,"Spirgartenstrasse 6, 8048 Zürich",8048,Zürich,ZH,6.0,8424,Spirgartenstrasse 6 Zürich,47.50370407104492,8.595171928405762
+1672673759-33170,Lufenwies Süd 4,"Lufenwies Süd 4, 8852 Altendorf",8852,Altendorf,SZ,4.0,6020,Lufenwies Süd 4 Altendorf,47.085113525390625,8.273019790649414
+1672673759-33171,Katrinenhofpark 3,"Katrinenhofpark 3, 8852 Altendorf",8852,Altendorf,SZ,3.0,6020,Katrinenhofpark 3 Altendorf,47.08088302612305,8.281702041625977
+1672673759-33175,Mühlebachhof 2,"Mühlebachhof 2, 8852 Altendorf",8852,Altendorf,SZ,2.0,6032,Mühlebachhof 2 Altendorf,47.07700729370117,8.287049293518066
+1672673914-34221,Tramstrasse 71,"Tramstrasse 71, 5034 Suhr",5034,Suhr,AG,71.0,6032,Tramstrasse 71 Suhr,47.07700729370117,8.287049293518066
+1672673917-34258,Tramstrasse 71,"Tramstrasse 71, 5034 Suhr",5034,Suhr,AG,71.0,6032,Tramstrasse 71 Suhr,47.082977294921875,8.308063507080078
+1672673917-34259,Tramstrasse 71,"Tramstrasse 71, 5034 Suhr",5034,Suhr,AG,71.0,8352,Tramstrasse 71 Suhr,47.50185775756836,8.812200546264648
+1672673914-34220,Tramstrasse 71,"Tramstrasse 71, 5034 Suhr",5034,Suhr,AG,71.0,8352,Tramstrasse 71 Suhr,47.50185775756836,8.812200546264648
+1672673948-34451,Rosengartenstrasse 4b,"Rosengartenstrasse 4b, 6440 Ingenbohl",6440,Brunnen,SZ,4.0,8352,Rosengartenstrasse 4b Brunnen,47.502784729003906,8.788649559020996
+1672673550-31716,Gersauerstrasse 78,"Gersauerstrasse 78, 6440 Brunnen",6440,Brunnen,SZ,78.0,5074,Gersauerstrasse 78 Brunnen,47.538536071777344,7.982117176055908
+1672673976-34648,Bergstrasse 13,"Bergstrasse 13, 8117 Fällanden",8117,Fällanden,ZH,13.0,8193,Bergstrasse 13 Fällanden,47.58024597167969,8.514485359191895
+1672673979-34668,Bergstrasse 13,"Bergstrasse 13, 8117 Fällanden",8117,Fällanden,ZH,13.0,8193,Bergstrasse 13 Fällanden,47.574859619140625,8.530800819396973
+1672673954-34491,Unterdorfwäg 3,"Unterdorfwäg 3, 8117 Fällanden",8117,Fällanden,ZH,3.0,8193,Unterdorfwäg 3 Fällanden,47.574859619140625,8.530800819396973
+1672673153-29196,Maurstrasse 40A,"Maurstrasse 40A, 8117 Fällanden",8117,Fällanden,ZH,40.0,8193,Maurstrasse 40A Fällanden,47.57763671875,8.523309707641602
+1672673153-29197,Maurstrasse 40a,"Maurstrasse 40a, 8117 Fällanden",8117,Fällanden,ZH,40.0,8193,Maurstrasse 40a Fällanden,47.57763671875,8.523309707641602
+1672672017-23822,Schüepwisstrasse 18,"Schüepwisstrasse 18, 8117 Fällanden",8117,Fällanden,ZH,18.0,8193,Schüepwisstrasse 18 Fällanden,47.57763671875,8.523309707641602
+1672673631-32269,Bodenacherstrasse 85,"Bodenacherstrasse 85, 8121 Benglen",8121,Benglen,ZH,85.0,8193,Bodenacherstrasse 85 Benglen,47.57763671875,8.523309707641602
+1672673631-32270,Bodenacherstrasse 92,"Bodenacherstrasse 92, 8121 Benglen",8121,Benglen,ZH,92.0,8193,Bodenacherstrasse 92 Benglen,47.57071304321289,8.525674819946289
+1672672562-27422,Via al Doyro 3,"Via al Doyro 3, 6815 Melide",6815,Melide,TI,3.0,8123,Via al Doyro 3 Melide,47.34809494018555,8.643332481384277
+1672673622-32201,chemin du Champ-Devant 7,"chemin du Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,8124,chemin du Champ-Devant 7 Bernex,47.31943130493164,8.672016143798828
+1672673622-32202,Chemin de Champ-Devant 7,"Chemin de Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,9642,Chemin de Champ-Devant 7 Bernex,47.267913818359375,9.119704246520996
+1672673622-32204,chemin du Champ-Devant 7,"chemin du Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,9642,chemin du Champ-Devant 7 Bernex,47.25958251953125,9.137213706970215
+1672673622-32206,chemin du Champ-Devant 7,"chemin du Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,5405,chemin du Champ-Devant 7 Bernex,47.45656967163086,8.286016464233398
+1672673625-32236,chemin du Champ-Devant 7,"chemin du Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,5406,chemin du Champ-Devant 7 Bernex,47.440914154052734,8.271876335144043
+1672673625-32238,chemin du Champ-Devant 7,"chemin du Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,5400,chemin du Champ-Devant 7 Bernex,47.484771728515625,8.282195091247559
+1672673893-34097,Chemin de Champ-Devant 7,"Chemin de Champ-Devant 7, 1233 Bernex",1233,Bernex,GE,7.0,5400,Chemin de Champ-Devant 7 Bernex,47.484771728515625,8.282195091247559
+1672673948-34442,Seestrasse 258,"Seestrasse 258, 8810 Horgen",8810,Horgen,ZH,258.0,5400,Seestrasse 258 Horgen,47.48310470581055,8.281161308288574
+1672673948-34443,Einsiedlerstrasse 253,"Einsiedlerstrasse 253, 8810 Horgen",8810,Horgen,ZH,253.0,5400,Einsiedlerstrasse 253 Horgen,47.481468200683594,8.283944129943848
+1672673948-34444,Einsiedlerstrasse 253,"Einsiedlerstrasse 253, 8810 Horgen",8810,Horgen,ZH,253.0,5400,Einsiedlerstrasse 253 Horgen,47.483028411865234,8.28242301940918
+1672673948-34441,Gstaldenstrasse 29,"Gstaldenstrasse 29, 8810 Horgen",8810,Horgen,ZH,29.0,5400,Gstaldenstrasse 29 Horgen,47.46662902832031,8.292963981628418
+1672672994-28080,Allmendgütlistrasse 39,"Allmendgütlistrasse 39, 8810 Horgen",8810,Horgen,ZH,39.0,5400,Allmendgütlistrasse 39 Horgen,47.43901443481445,8.265151977539062
+1672672994-28081,Burghaldenstrasse 11,"Burghaldenstrasse 11, 8810 Horgen",8810,Horgen,ZH,11.0,5400,Burghaldenstrasse 11 Horgen,47.47339630126953,8.284257888793945
+1672672994-28082,Allmendgütlistrasse 43,"Allmendgütlistrasse 43, 8810 Horgen",8810,Horgen,ZH,43.0,3186,Allmendgütlistrasse 43 Horgen,46.84022521972656,7.1893310546875
+1672672994-28083,Rebackerstrasse 13,"Rebackerstrasse 13, 8810 Horgen",8810,Horgen,ZH,13.0,3186,Rebackerstrasse 13 Horgen,46.85045623779297,7.200480937957764
+1672672994-28084,8810 Horgen,"8810 Horgen, 8810 Horgen",8810,Horgen,ZH,8810.0,3186,8810 Horgen Horgen,46.84022521972656,7.1893310546875
+1672672996-28118,Stockerstrasse 13-17,"Stockerstrasse 13-17, 8810 Horgen",8810,Horgen,ZH,13.0,4657,Stockerstrasse 13-17 Horgen,47.345516204833984,7.941276550292969
+1672672999-28131,Dorfstrasse 40,"Dorfstrasse 40, 8816 Hirzel",8816,Hirzel,ZH,40.0,4657,Dorfstrasse 40 Hirzel,47.34843826293945,7.9497551918029785
+1672671914-23170,Dorfstrasse 52,"Dorfstrasse 52, 8816 Hirzel",8816,Hirzel,ZH,52.0,4657,Dorfstrasse 52 Hirzel,47.34629440307617,7.938733100891113
+1672673261-29862,Promenade 10A,"Promenade 10A, 7270 Davos Platz",7270,Davos Platz,GR,10.0,5026,Promenade 10A Davos Platz,47.45185852050781,8.052063941955566
+1672673261-29863,Hertistrasse 19 D,"Hertistrasse 19 D, 7270 Davos Platz",7270,Davos Platz,GR,19.0,5026,Hertistrasse 19 D Davos Platz,47.45175552368164,8.052266120910645
+1672673261-29864,Promenade 95,"Promenade 95, 7270 Davos Platz",7270,Davos Platz,GR,95.0,4552,Promenade 95 Davos Platz,47.19976043701172,7.580513954162598
+1672673261-29869,Scalettastrasse 21A,"Scalettastrasse 21A, 7270 Davos Platz",7270,Davos Platz,GR,21.0,4552,Scalettastrasse 21A Davos Platz,47.19935989379883,7.586159706115723
+1672673263-29891,Talstrasse 42b,"Talstrasse 42b, 7270 Davos Platz",7270,Davos Platz,GR,42.0,4457,Talstrasse 42b Davos Platz,47.405155181884766,7.810406684875488
+1672673263-29892,Hertistrasse 1,"Hertistrasse 1, 7270 Davos Platz",7270,Davos Platz,GR,1.0,8157,Hertistrasse 1 Davos Platz,47.484588623046875,8.454418182373047
+1672673263-29893,Parkstrasse 2,"Parkstrasse 2, 7270 Davos Platz",7270,Davos Platz,GR,2.0,9113,Parkstrasse 2 Davos Platz,47.3743896484375,9.199880599975586
+1672673263-29894,Brämabüelstrasse 19,"Brämabüelstrasse 19, 7270 Davos Platz",7270,Davos Platz,GR,19.0,9113,Brämabüelstrasse 19 Davos Platz,47.3743896484375,9.199880599975586
+1672673263-29895,Mattastrasse 7,"Mattastrasse 7, 7270 Davos Platz",7270,Davos Platz,GR,7.0,9113,Mattastrasse 7 Davos Platz,47.3743896484375,9.199880599975586
+1672673263-29896,Promenade 73,"Promenade 73, 7270 Davos Platz",7270,Davos Platz,GR,73.0,6516,Promenade 73 Davos Platz,46.1737060546875,8.920384407043457
+1672673261-29875,Aussergasse 20,"Aussergasse 20, 7494 Davos Wiesen",7494,Davos Wiesen,GR,20.0,8447,Aussergasse 20 Davos Wiesen,47.670318603515625,8.613372802734375
+1672673261-29876,Aussergasse 20,"Aussergasse 20, 7494 Davos Wiesen",7494,Davos Wiesen,GR,20.0,2923,Aussergasse 20 Davos Wiesen,47.45829772949219,7.048572063446045
+1672673261-29877,Weidstrasse 8,"Weidstrasse 8, 7265 Davos Wolfgang",7265,Davos Wolfgang,GR,8.0,2923,Weidstrasse 8 Davos Wolfgang,47.458885192871094,7.045866012573242
+1672673263-29886,Baslerstrasse 7,"Baslerstrasse 7, 7260 Davos Dorf",7260,Davos Dorf,GR,7.0,2950,Baslerstrasse 7 Davos Dorf,47.402748107910156,7.125268459320068
+1672673266-29909,Jörg Jenatsch Strasse 2,"Jörg Jenatsch Strasse 2, 7260 Davos Dorf",7260,Davos Dorf,GR,2.0,2950,Jörg Jenatsch Strasse 2 Davos Dorf,47.402748107910156,7.125268459320068
+1672673266-29910,Jörg Jenatsch Strasse 2,"Jörg Jenatsch Strasse 2, 7260 Davos Dorf",7260,Davos Dorf,GR,2.0,2950,Jörg Jenatsch Strasse 2 Davos Dorf,47.402748107910156,7.125268459320068
+1672673266-29911,Salzgäbastrasse 9,"Salzgäbastrasse 9, 7260 Davos Dorf",7260,Davos Dorf,GR,9.0,2950,Salzgäbastrasse 9 Davos Dorf,47.41075897216797,7.125804424285889
+1672673266-29912,Goristrasse 4,"Goristrasse 4, 7260 Davos Dorf",7260,Davos Dorf,GR,4.0,2950,Goristrasse 4 Davos Dorf,47.41075897216797,7.125804424285889
+1672673266-29913,Jörg-Jenatsch-Strasse 2,"Jörg-Jenatsch-Strasse 2, 7260 Davos Dorf",7260,Davos Dorf,GR,2.0,2950,Jörg-Jenatsch-Strasse 2 Davos Dorf,47.403499603271484,7.121081829071045
+1672673929-34335,Chemin du Daru 37,"Chemin du Daru 37, 1228 Plan-les-Ouates",1228,Plan-les-Ouates,GE,37.0,1720,Chemin du Daru 37 Plan-les-Ouates,46.8083610534668,7.106884002685547
+1672671534-20710,Route du Camp 32,"Route du Camp 32, 1228 Plan-les-Ouates",1228,Plan-les-Ouates,GE,32.0,6646,Route du Camp 32 Plan-les-Ouates,46.17973327636719,8.853059768676758
+1672673973-34630,Via Vitg dadens 10,"Via Vitg dadens 10, 7152 Sagogn",7152,Sagogn,GR,10.0,6646,Via Vitg dadens 10 Sagogn,46.18521499633789,8.843769073486328
+1672673973-34620,Rietgrabenstrasse 60B,"Rietgrabenstrasse 60B, 8152 Opfikon",8152,Glattbrugg,ZH,60.0,1562,Rietgrabenstrasse 60B Glattbrugg,46.83001708984375,6.9617695808410645
+1672673960-34522,Via Mera 30,"Via Mera 30, 6987 Caslano",6987,Caslano,TI,30.0,1587,Via Mera 30 Caslano,46.926246643066406,7.011023998260498
+1672673480-31266,Via Rompada 11,"Via Rompada 11, 6987 Caslano",6987,Caslano,TI,11.0,1585,Via Rompada 11 Caslano,46.916969299316406,7.023202419281006
+1672672240-25298,Via San Michele 42C,"Via San Michele 42C, 6987 Caslano",6987,Caslano,TI,42.0,6814,Via San Michele 42C Caslano,46.03083419799805,8.937888145446777
+1672673911-34201,Chemin de la Barmète 17,"Chemin de la Barmète 17, 1936 Verbier",1936,Verbier,VS,17.0,8180,Chemin de la Barmète 17 Verbier,47.51683807373047,8.535018920898438
+1672672037-23955,La Charrière 16,"La Charrière 16, 1934 Fontenelle",1934,Le Châble VS,VS,16.0,8180,La Charrière 16 Le Châble VS,47.530853271484375,8.540647506713867
+1672672037-23956,Chemin de la Charrière 16,"Chemin de la Charrière 16, 1934 Fontenelle",1934,Le Châble VS,VS,16.0,8180,Chemin de la Charrière 16 Le Châble VS,47.52191925048828,8.539836883544922
+1672672043-23993,Revers de Fionnay 2,"Revers de Fionnay 2, 1948 Fionnay",1948,Lourtier,VS,2.0,8180,Revers de Fionnay 2 Lourtier,47.5242919921875,8.553143501281738
+1672672043-23994,Revers de Fionnay 2,"Revers de Fionnay 2, 1948 Fionnay",1948,Lourtier,VS,2.0,3935,Revers de Fionnay 2 Lourtier,46.28418731689453,7.813685417175293
+1672671883-22956,Bruggbachweg 5,"Bruggbachweg 5, 9533 Kirchberg SG",9533,Kirchberg SG,SG,5.0,4461,Bruggbachweg 5 Kirchberg SG,47.46355438232422,7.838512420654297
+1672673021-28292,Schützewisstrasse 3a,"Schützewisstrasse 3a, 9534 Gähwil",9534,Gähwil,SG,3.0,4461,Schützewisstrasse 3a Gähwil,47.46248245239258,7.834681034088135
+1672673667-32517,Spelterinistrasse 29,"Spelterinistrasse 29, 9602 Bazenheid",9602,Bazenheid,SG,29.0,9055,Spelterinistrasse 29 Bazenheid,47.372135162353516,9.419261932373047
+1672673531-31599,Seestrasse 54,"Seestrasse 54, 8806 Bäch SZ",8806,Bäch SZ,SZ,54.0,3400,Seestrasse 54 Bäch SZ,47.049224853515625,7.639812469482422
+1672671791-22359,Via Fiorina 25,"Via Fiorina 25, 6600 Locarno",6600,Locarno,TI,25.0,5505,Via Fiorina 25 Locarno,47.41901397705078,8.214691162109375
+1672673541-31640,Mülibachstrasse 55,"Mülibachstrasse 55, 8107 Buchs ZH",8107,Buchs ZH,ZH,55.0,6614,Mülibachstrasse 55 Buchs ZH,46.11051940917969,8.69863510131836
+1672673541-31643,Ringstrasse 16,"Ringstrasse 16, 8107 Buchs ZH",8107,Buchs ZH,ZH,16.0,6614,Ringstrasse 16 Buchs ZH,46.116641998291016,8.707581520080566
+1672673544-31679,Mülibachstrasse 59,"Mülibachstrasse 59, 8107 Buchs ZH",8107,Buchs ZH,ZH,59.0,6614,Mülibachstrasse 59 Buchs ZH,46.11282730102539,8.705545425415039
+1672672280-25572,Mühlebergstrasse 18,"Mühlebergstrasse 18, 8107 Buchs",8107,Buchs ZH,ZH,18.0,6614,Mühlebergstrasse 18 Buchs ZH,46.120750427246094,8.710830688476562
+1672673944-34439,Sonnmattweg 66,"Sonnmattweg 66, 4410 Liestal",4410,Liestal,BL,66.0,6614,Sonnmattweg 66 Liestal,46.12169647216797,8.711684226989746
+1672672568-27476,Wiedenhubstrasse 17,"Wiedenhubstrasse 17, 4410 Liestal",4410,Liestal,BL,17.0,6614,Wiedenhubstrasse 17 Liestal,46.12492752075195,8.712255477905273
+1672671794-22376,Arisdörferstrasse 107,"Arisdörferstrasse 107, 4410 Liestal",4410,Liestal,BL,107.0,6614,Arisdörferstrasse 107 Liestal,46.12038040161133,8.713057518005371
+1672673923-34297,Schulstrasse 112,"Schulstrasse 112, 8952 Schlieren",8952,Schlieren,ZH,112.0,4805,Schulstrasse 112 Schlieren,47.253108978271484,7.94741678237915
+1672673948-34446,Wegmatt 18,"Wegmatt 18, 6048 Horw",6048,Horw,LU,18.0,6648,Wegmatt 18 Horw,46.18365478515625,8.823241233825684
+1672672994-28087,Ringstrasse 5,"Ringstrasse 5, 6048 Horw",6048,Horw,LU,5.0,6648,Ringstrasse 5 Horw,46.17726516723633,8.80882453918457
+1672672994-28088,Stegenrain 4,"Stegenrain 4, 6048 Horw",6048,Horw,LU,4.0,6648,Stegenrain 4 Horw,46.18071365356445,8.817953109741211
+1672672994-28091,Kantonsstrasse 120,"Kantonsstrasse 120, 6048 Horw",6048,Horw,LU,120.0,6648,Kantonsstrasse 120 Horw,46.179813385009766,8.81824016571045
+1672672994-28093,Obchilchweg 7,"Obchilchweg 7, 6048 Horw",6048,Horw,LU,7.0,3855,Obchilchweg 7 Horw,46.7503547668457,8.05241584777832
+1672671912-23157,Rigiblickweg 7,"Rigiblickweg 7, 6048 Horw",6048,Horw,LU,7.0,7492,Rigiblickweg 7 Horw,46.67741394042969,9.651288986206055
+1672672562-27435,Im Sprung 10,"Im Sprung 10, 4132 Muttenz",4132,Muttenz,BL,10.0,6645,Im Sprung 10 Muttenz,46.18336868286133,8.81548023223877
+1672671625-21300,Dornhagstrasse 21,"Dornhagstrasse 21, 4132 Muttenz",4132,Muttenz,BL,21.0,6645,Dornhagstrasse 21 Muttenz,46.18218231201172,8.806174278259277
+1672673932-34347,Rue de l'Evole 35A,"Rue de l'Evole 35A, 2000 Neuchâtel",2000,Neuchâtel,NE,35.0,4226,Rue de l'Evole 35A Neuchâtel,47.406429290771484,7.546140193939209
+1672673932-34346,Faubourg de l'Hôpital 90,"Faubourg de l'Hôpital 90, 2000 Neuchâtel",2000,Neuchâtel,NE,90.0,4226,Faubourg de l'Hôpital 90 Neuchâtel,47.40840530395508,7.552340507507324
+1672671611-21211,8092371,"8092371, 2000 Neuchâtel",2000,Neuchâtel,NE,8092371.0,2017,8092371 Neuchâtel,46.950904846191406,6.82770299911499
+1672673962-34548,Alpenblick 13,"Alpenblick 13, 8311 Brütten",8311,Brütten,ZH,13.0,6656,Alpenblick 13 Brütten,46.17851638793945,8.709343910217285
+1672672584-27571,Sunnehaldenstrasse 5,"Sunnehaldenstrasse 5, 8311 Brütten",8311,Brütten,ZH,5.0,1807,Sunnehaldenstrasse 5 Brütten,46.47087860107422,6.895803928375244
+1672671827-22563,Chemin de la Naz 39,"Chemin de la Naz 39, 1052 Le Mont-sur-Lausanne",1052,Le Mont-sur-Lausanne,VD,39.0,3366,Chemin de la Naz 39 Le Mont-sur-Lausanne,47.1724853515625,7.716433048248291
+1672671827-22564,9130413,"9130413, 1052 Le Mont-sur-Lausanne",1052,Le Mont-sur-Lausanne,VD,9130413.0,9220,9130413 Le Mont-sur-Lausanne,47.496402740478516,9.25007438659668
+1672673976-34652,Haldenstrasse 30,"Haldenstrasse 30, 9548 Matzingen",9548,Matzingen,TG,30.0,2504,Haldenstrasse 30 Matzingen,47.153011322021484,7.268741130828857
+1672673917-34255,Gerenstrasse 14,"Gerenstrasse 14, 8712 Stäfa",8712,Stäfa,ZH,14.0,2502,Gerenstrasse 14 Stäfa,47.14608383178711,7.26997184753418
+1672673917-34256,Gerenstrasse 14,"Gerenstrasse 14, 8712 Stäfa",8712,Stäfa,ZH,14.0,3507,Gerenstrasse 14 Stäfa,46.92702865600586,7.619304656982422
+1672673973-34631,Rhynerstrasse 6,"Rhynerstrasse 6, 8712 Stäfa",8712,Stäfa,ZH,6.0,3507,Rhynerstrasse 6 Stäfa,46.92478561401367,7.627810478210449
+1672673917-34257,Laubstenstrasse 26,"Laubstenstrasse 26, 8712 Stäfa",8712,Stäfa,ZH,26.0,3507,Laubstenstrasse 26 Stäfa,46.92647171020508,7.62118673324585
+1672673935-34361,Schwabachstrasse 51,"Schwabachstrasse 51, 8706 Meilen",8706,Meilen,ZH,51.0,5023,Schwabachstrasse 51 Meilen,47.41580581665039,8.085741996765137
+1672673935-34362,Feldgüetliweg 108,"Feldgüetliweg 108, 8706 Meilen",8706,Meilen,ZH,108.0,5023,Feldgüetliweg 108 Meilen,47.41558074951172,8.085570335388184
+1672671716-21868,In der Au 10C,"In der Au 10C, 8706 Meilen",8706,Meilen,ZH,10.0,4105,In der Au 10C Meilen,47.50957489013672,7.522444248199463
+1672673932-34359,Bergstrasse 9a,"Bergstrasse 9a, 5452 Oberrohrdorf",5452,Oberrohrdorf,AG,9.0,6710,Bergstrasse 9a Oberrohrdorf,46.36038589477539,8.972203254699707
+1672671583-21034,Zürichstrasse 12,"Zürichstrasse 12, 5452 Oberrohrdorf",5452,Oberrohrdorf,AG,12.0,6710,Zürichstrasse 12 Oberrohrdorf,46.35868835449219,8.968069076538086
+1672673957-34502,Route de la Moubra 21,"Route de la Moubra 21, 3963 Crans-Montana",3963,Crans-Montana,VS,21.0,6710,Route de la Moubra 21 Crans-Montana,46.36038589477539,8.972203254699707
+1672673957-34503,Rue de Tsintres 6,"Rue de Tsintres 6, 3963 Crans-Montana",3963,Crans-Montana,VS,6.0,6710,Rue de Tsintres 6 Crans-Montana,46.353694915771484,8.97361946105957
+1672673283-30026,Route de Lanna 3,"Route de Lanna 3, 3963 Crans-Montana",3963,Crans-Montana,VS,3.0,9553,Route de Lanna 3 Crans-Montana,47.49932861328125,9.026786804199219
+1672673283-30033,Allée Élysée Bonvin 3,"Allée Élysée Bonvin 3, 3963 Crans-Montana",3963,Crans-Montana,VS,3.0,8222,Allée Élysée Bonvin 3 Crans-Montana,47.69894790649414,8.578047752380371
+1672673286-30049,Rue de Tsintres 6,"Rue de Tsintres 6, 3963 Crans-Montana",3963,Crans-Montana,VS,6.0,8463,Rue de Tsintres 6 Crans-Montana,47.65462112426758,8.65144157409668
+1672673286-30051,Allée Élysée Bonvin 3,"Allée Élysée Bonvin 3, 3963 Crans-Montana",3963,Crans-Montana,VS,3.0,8962,Allée Élysée Bonvin 3 Crans-Montana,47.39626693725586,8.373892784118652
+1672673289-30068,Avenue de la Gare 22,"Avenue de la Gare 22, 3963 Crans-Montana",3963,Crans-Montana,VS,22.0,8303,Avenue de la Gare 22 Crans-Montana,47.44233322143555,8.627076148986816
+1672673292-30093,Rue du Pas de l'Ours 5,"Rue du Pas de l'Ours 5, 3963 Crans-Montana",3963,Crans-Montana,VS,5.0,5330,Rue du Pas de l'Ours 5 Crans-Montana,47.58919143676758,8.29272174835205
+1672673301-30141,Route de Lavenire 79,"Route de Lavenire 79, 3963 Crans-Montana",3963,Crans-Montana,VS,79.0,7050,Route de Lavenire 79 Crans-Montana,46.77936935424805,9.677444458007812
+1672673301-30143,Rue du Rhodania 1,"Rue du Rhodania 1, 3963 Crans-Montana",3963,Crans-Montana,VS,1.0,1957,Rue du Rhodania 1 Crans-Montana,46.210121154785156,7.258113861083984
+1672673301-30157,Rue de Pas de l'Ours 23,"Rue de Pas de l'Ours 23, 3963 Crans-Montana",3963,Crans-Montana,VS,23.0,9450,Rue de Pas de l'Ours 23 Crans-Montana,47.3814582824707,9.553436279296875
+1672673305-30169,Route de la Moubra 50,"Route de la Moubra 50, 3963 Crans-Montana",3963,Crans-Montana,VS,50.0,5600,Route de la Moubra 50 Crans-Montana,47.37190628051758,8.209335327148438
+1672673305-30170,Route de Marigny 8,"Route de Marigny 8, 3963 Crans-Montana",3963,Crans-Montana,VS,8.0,5600,Route de Marigny 8 Crans-Montana,47.37190628051758,8.209335327148438
+1672673308-30196,19,"19, Rue des Anémones, 3963 Crans-Montana",3963,Crans-Montana,VS,19.0,4123,19 Crans-Montana,47.55331039428711,7.558510780334473
+1672673308-30199,Rte du Pas-de-l'Ours 9,"Rte du Pas-de-l'Ours 9, 3963 Crans-Montana",3963,Crans-Montana,VS,9.0,4123,Rte du Pas-de-l'Ours 9 Crans-Montana,47.54981994628906,7.527727127075195
+1672673312-30206,Route cantonale Sierre-Montana 67,"Route cantonale Sierre-Montana 67, 3963 Crans-Montana",3963,Crans-Montana,VS,67.0,4123,Route cantonale Sierre-Montana 67 Crans-Montana,47.54646301269531,7.544092178344727
+1672673312-30208,Route des Briesses 4 Crans-Montana,"Route des Briesses 4 Crans-Montana, 3963 Crans-Montana",3963,Crans-Montana,VS,4.0,6055,Route des Briesses 4 Crans-Montana Crans-Montana,46.93515396118164,8.275182723999023
+1672673312-30211,Route de Marigny 6,"Route de Marigny 6, 3963 Crans-Montana",3963,Crans-Montana,VS,6.0,6248,Route de Marigny 6 Crans-Montana,47.14787292480469,8.001398086547852
+1672673315-30236,Route de la Combaz 50,"Route de la Combaz 50, 3963 Crans-Montana",3963,Crans-Montana,VS,50.0,5000,Route de la Combaz 50 Crans-Montana,47.39094161987305,8.063745498657227
+1672673318-30242,Rue du Zier 20,"Rue du Zier 20, 3963 Crans-Montana",3963,Crans-Montana,VS,20.0,5004,Rue du Zier 20 Crans-Montana,47.40116882324219,8.058948516845703
+1672673318-30244,Rte Pirazzilina no 15,"Rte Pirazzilina no 15, 3963 Crans-Montana",3963,Crans-Montana,VS,15.0,5032,Rte Pirazzilina no 15 Crans-Montana,47.4013671875,8.076577186584473
+1672673318-30245,Rue de Pirrazilina 17,"Rue de Pirrazilina 17, 3963 Crans-Montana",3963,Crans-Montana,VS,17.0,5032,Rue de Pirrazilina 17 Crans-Montana,47.39940643310547,8.074292182922363
+1672673318-30251,Rue de Tsintres 6,"Rue de Tsintres 6, 3963 Crans-Montana",3963,Crans-Montana,VS,6.0,8355,Rue de Tsintres 6 Crans-Montana,47.49143600463867,8.905611038208008
+1672673318-30258,Rue de Tsintres 6,"Rue de Tsintres 6, 3963 Crans-Montana",3963,Crans-Montana,VS,6.0,8356,Rue de Tsintres 6 Crans-Montana,47.47869110107422,8.903913497924805
+1672673321-30275,Rue de Pirrazilina 19,"Rue de Pirrazilina 19, 3963 Crans-Montana",3963,Crans-Montana,VS,19.0,6026,Rue de Pirrazilina 19 Crans-Montana,47.13054275512695,8.259293556213379
+1672673321-30277,Rte des Barzettes 39,"Rte des Barzettes 39, 3963 Crans-Montana",3963,Crans-Montana,VS,39.0,5734,Rte des Barzettes 39 Crans-Montana,47.26384735107422,8.195143699645996
+1672673321-30278,Route des Barzettes 39,"Route des Barzettes 39, 3963 Crans-Montana",3963,Crans-Montana,VS,39.0,6946,Route des Barzettes 39 Crans-Montana,46.0617561340332,8.949516296386719
+1672673321-30279,Route de l'Europa 1,"Route de l'Europa 1, 3963 Crans-Montana",3963,Crans-Montana,VS,1.0,5735,Route de l'Europa 1 Crans-Montana,47.2457275390625,8.175408363342285
+1672673328-30300,Rue du Pas de l 'Ours 5,"Rue du Pas de l 'Ours 5, 3963 Crans-Montana",3963,Crans-Montana,VS,5.0,8213,Rue du Pas de l 'Ours 5 Crans-Montana,47.690284729003906,8.498636245727539
+1672673328-30301,Rue du Pas-de-l'Ours 1B,"Rue du Pas-de-l'Ours 1B, 3963 Crans-Montana, 3963 Crans-Montana",3963,Crans-Montana,VS,1.0,8213,Rue du Pas-de-l'Ours 1B Crans-Montana,47.68946838378906,8.499809265136719
+1672673328-30306,Rue Lhassa 26,"Rue Lhassa 26, 3963 Crans-Montana",3963,Crans-Montana,VS,26.0,8156,Rue Lhassa 26 Crans-Montana,47.46940231323242,8.50555419921875
+1672673328-30307,Route de la Prairie 42,"Route de la Prairie 42, 3963 Crans-Montana",3963,Crans-Montana,VS,42.0,8156,Route de la Prairie 42 Crans-Montana,47.46904373168945,8.505398750305176
+1672673328-30308,rue des Zirès 2,"rue des Zirès 2, 3963 Crans-Montana",3963,Crans-Montana,VS,2.0,9203,rue des Zirès 2 Crans-Montana,47.43825149536133,9.197020530700684
+1672673331-30327,Rue du Pont Diable 11,"Rue du Pont Diable 11, 3963 Crans-Montana",3963,Crans-Montana,VS,11.0,8523,Rue du Pont Diable 11 Crans-Montana,47.52121353149414,8.888853073120117
+1672673331-30331,Route de Marigny 17,"Route de Marigny 17, 3963 Crans-Montana",3963,Crans-Montana,VS,17.0,8353,Route de Marigny 17 Crans-Montana,47.501502990722656,8.864635467529297
+1672673331-30333,Route du Clovelli 18,"Route du Clovelli 18, 3963 Crans-Montana",3963,Crans-Montana,VS,18.0,8353,Route du Clovelli 18 Crans-Montana,47.488033294677734,8.870528221130371
+1672673331-30335,Rte des Barzettes 34,"Rte des Barzettes 34, 3963 Crans-Montana",3963,Crans-Montana,VS,34.0,5325,Rte des Barzettes 34 Crans-Montana,47.59498596191406,8.172268867492676
+1672673334-30347,Route des Barzettes 15,"Route des Barzettes 15, 3963 Crans-Montana",3963,Crans-Montana,VS,15.0,8610,Route des Barzettes 15 Crans-Montana,47.34881591796875,8.702829360961914
+1672673334-30350,6,"6, route des Barzettes, 3963 Crans-Montana",3963,Crans-Montana,VS,6.0,4852,6 Crans-Montana,47.309051513671875,7.897547721862793
+1672673334-30355,Rue de Beaumanière 8,"Rue de Beaumanière 8, 3963 Crans-Montana",3963,Crans-Montana,VS,8.0,4622,Rue de Beaumanière 8 Crans-Montana,47.32402801513672,7.793032169342041
+1672673334-30356,Rue du Pas-de-l'Ours 53,"Rue du Pas-de-l'Ours 53, 3963 Crans-Montana",3963,Crans-Montana,VS,53.0,4622,Rue du Pas-de-l'Ours 53 Crans-Montana,47.32325744628906,7.80190896987915
+1672673337-30364,3,"3, route du Pont du Diable, 3963 Crans-Montana",3963,Crans-Montana,VS,3.0,4853,3 Crans-Montana,47.271202087402344,7.849140644073486
+1672673337-30367,Route des Barzettes 15,"Route des Barzettes 15, 3963 Crans-Montana",3963,Crans-Montana,VS,15.0,5622,Route des Barzettes 15 Crans-Montana,47.33848190307617,8.298245429992676
+1672673337-30370,Impasse des Clavans 3,"Impasse des Clavans 3, 3963 Crans-Montana",3963,Crans-Montana,VS,3.0,5621,Impasse des Clavans 3 Crans-Montana,47.354862213134766,8.357771873474121
+1672673337-30373,Route des Barzettes 39,"Route des Barzettes 39, 3963 Crans-Montana",3963,Crans-Montana,VS,39.0,6983,Route des Barzettes 39 Crans-Montana,45.98280334472656,8.884866714477539
+1672671818-22511,Route de la Délège 55,"Route de la Délège 55, 3963 Lens",3963,Crans-Montana,VS,55.0,1341,Route de la Délège 55 Crans-Montana,46.603057861328125,6.234793663024902
+1672672119-24517,Chemin de Crételles 16,"Chemin de Crételles 16, 3975 Crans-Montana",3975,Randogne,VS,16.0,8617,Chemin de Crételles 16 Randogne,47.31079864501953,8.722335815429688
+1672672325-25877,Chemin de Praty 40,"Chemin de Praty 40, 3975 Bluche-Randogne",3975,Randogne,VS,40.0,8617,Chemin de Praty 40 Randogne,47.315093994140625,8.723085403442383
+1672673965-34565,Bahnhofstrasse 63,"Bahnhofstrasse 63, 8965 Berikon",8965,Berikon,AG,63.0,1663,Bahnhofstrasse 63 Berikon,46.56399154663086,7.035409927368164
+1672673628-32243,Bürkihof 4,"Bürkihof 4, 8965 Berikon",8965,Berikon,AG,4.0,6677,Bürkihof 4 Berikon,46.233036041259766,8.726715087890625
+1672672587-27594,Höhenweg 3,"Höhenweg 3, 8965 Berikon",8965,Berikon,AG,3.0,6563,Höhenweg 3 Berikon,46.41695785522461,9.223451614379883
+1672672359-26085,Im Unterzelg 9,"Im Unterzelg 9, 8965 Berikon",8965,Berikon,AG,9.0,5274,Im Unterzelg 9 Berikon,47.566078186035156,8.127240180969238
+1672673920-34269,Seglias 37,"Seglias 37, 7514 Sils im Engadin",7514,Sils/Segl Maria,GR,37.0,5275,Seglias 37 Sils/Segl Maria,47.570533752441406,8.109162330627441
+1672673911-34212,Seestrasse 54,"Seestrasse 54, 6354 Vitznau",6354,Vitznau,LU,54.0,4116,Seestrasse 54 Vitznau,47.46379470825195,7.465950012207031
+1672673923-34290,Crusch 2,"Crusch 2, 7503 Samaden",7503,Samedan,GR,2.0,4233,Crusch 2 Samedan,47.38774490356445,7.587184906005859
+1672673821-33605,Rainstrasse 6,"Rainstrasse 6, 8955 Oetwil an der Limmat",8955,Oetwil an der Limmat,ZH,6.0,3860,Rainstrasse 6 Oetwil an der Limmat,46.72316360473633,8.195886611938477
+1672671577-20991,Rainstrasse 23,"Rainstrasse 23, 8955 Oetwil an der Limmat",8955,Oetwil an der Limmat,ZH,23.0,1869,Rainstrasse 23 Oetwil an der Limmat,46.2457160949707,6.986443042755127
+1672673468-31189,Place du Cori 1,"Place du Cori 1, 3966 Chalais",3966,Chalais,VS,1.0,4448,Place du Cori 1 Chalais,47.392696380615234,7.85114049911499
+1672673468-31191,Place du Cori 1,"Place du Cori 1, 3966 Chalais",3966,Chalais,VS,1.0,4932,Place du Cori 1 Chalais,47.186004638671875,7.791522979736328
+1672673343-30415,Rue du Quenet 3,"Rue du Quenet 3, 2822 Courroux",2822,Courroux,JU,3.0,4415,Rue du Quenet 3 Courroux,47.464290618896484,7.757567882537842
+1672673343-30417,Rue du Quenet 3,"Rue du Quenet 3, 2822 Courroux",2822,Courroux,JU,3.0,4415,Rue du Quenet 3 Courroux,47.46866226196289,7.770689010620117
+1672672134-24615,Rue du 23 Juin 21,"Rue du 23 Juin 21, 2822 Courroux",2822,Courroux,JU,23.0,4712,Rue du 23 Juin 21 Courroux,47.31044387817383,7.6521992683410645
+1672672134-24618,Chemin des Celtes 8,"Chemin des Celtes 8, 2822 Courroux",2822,Courroux,JU,8.0,2516,Chemin des Celtes 8 Courroux,47.117340087890625,7.132476329803467
+1672673804-33484,Avenue de Tourbillon 60,"Avenue de Tourbillon 60, 1950 Sion",1950,Sion,VS,60.0,8457,Avenue de Tourbillon 60 Sion,47.57661437988281,8.667778015136719
+1672672477-26895,Route de Lentine 8,"Route de Lentine 8, 1950 Sion",1950,Sion,VS,8.0,3032,Route de Lentine 8 Sion,46.96962356567383,7.377089023590088
+1672672307-25749,Rte des Orgues 21E,"Rte des Orgues 21E, 1967 Bramois",1967,Bramois,VS,21.0,3115,Rte des Orgues 21E Bramois,46.83913803100586,7.546452045440674
+1672673957-34510,Klimmweg 42,"Klimmweg 42, 8305 Dietlikon",8305,Dietlikon,ZH,42.0,9306,Klimmweg 42 Dietlikon,47.48880386352539,9.388486862182617
+1672673249-29792,Aufwiesenstrasse 34,"Aufwiesenstrasse 34, 8305 Dietlikon",8305,Dietlikon,ZH,34.0,2577,Aufwiesenstrasse 34 Dietlikon,47.02083969116211,7.180633544921875
+1672673249-29794,8305 Dietlikon,"8305 Dietlikon, 8305 Dietlikon",8305,Dietlikon,ZH,8305.0,2916,8305 Dietlikon Dietlikon,47.419742584228516,6.951394081115723
+1672673249-29795,Riedmühlestrasse 15,"Riedmühlestrasse 15, 8305 Dietlikon",8305,Dietlikon,ZH,15.0,2916,Riedmühlestrasse 15 Dietlikon,47.4221305847168,6.9426469802856445
+1672673914-34230,Hintere Rietstrasse 29,"Hintere Rietstrasse 29, 8103 Unterengstringen",8103,Unterengstringen,ZH,29.0,3995,Hintere Rietstrasse 29 Unterengstringen,46.39350509643555,8.137149810791016
+1672673908-34199,Feldhof 10,"Feldhof 10, 6300 Zug",6300,Zug,ZG,10.0,3995,Feldhof 10 Zug,46.377506256103516,8.151041984558105
+1672673904-34162,Chapfstrasse 48,"Chapfstrasse 48, 8126 Zumikon",8126,Zumikon,ZH,48.0,8360,Chapfstrasse 48 Zumikon,47.46223831176758,8.959074974060059
+1672671979-23590,Meisenrain 26E,"Meisenrain 26E, 8044 Gockhausen",8044,Gockhausen,ZH,26.0,4143,Meisenrain 26E Gockhausen,47.47560501098633,7.613295078277588
+1672673235-29690,Am Stadtrand 51a,"Am Stadtrand 51a, 8600 Dübendorf",8600,Dübendorf,ZH,51.0,4143,Am Stadtrand 51a Dübendorf,47.478694915771484,7.620625972747803
+1672673235-29691,Am Stadtrand 49A,"Am Stadtrand 49A, 8600 Dübendorf",8600,Dübendorf,ZH,49.0,2802,Am Stadtrand 49A Dübendorf,47.354061126708984,7.289390563964844
+1672673923-34291,Bärenweidstrasse 3,"Bärenweidstrasse 3, 8833 Samstagern",8833,Samstagern,ZH,3.0,8253,Bärenweidstrasse 3 Samstagern,47.68819046020508,8.754597663879395
+1672672401-26393,Quellenstrasse 13,"Quellenstrasse 13, 8804 Au ZH",8804,Au ZH,ZH,13.0,2905,Quellenstrasse 13 Au ZH,47.40357971191406,7.0404181480407715
+1672671523-20655,Via Cantonale 36,"Via Cantonale 36, 6613 Porto Ronco",6613,Porto Ronco,TI,36.0,1856,Via Cantonale 36 Porto Ronco,46.35867691040039,6.9773783683776855
+1672672568-27468,Chemin de Planche aux Oies 4,"Chemin de Planche aux Oies 4, 1000 Lausanne 26",1000,Lausanne 25,VD,4.0,4223,Chemin de Planche aux Oies 4 Lausanne 25,47.44889450073242,7.515897750854492

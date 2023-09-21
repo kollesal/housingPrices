@@ -1,0 +1,12 @@
+01) Web api
+As a web API we are collecting all the Bus- and Trainstations from Switzerland. The notebook and Output can
+be found in the folder 'Geocoding Stations'.
+
+02) Web Scraping
+We scraped the available Buildings (apartments and houses) of Switzerland from the Webpage 'Homegate'.
+
+03) Tax Rates
+We use the xslx file 'estv_income_rates.xslx' to load the Cantonal Tax Rates and Municipal Tax Rates of all Cantons. In the 'Preparing and Storing Data' Sequence we additionally created a new variable 'steuersatz_kombiniert', which is the sum of the Cantonal and Municipal Tax Rate.
+
+04) BfS Table
+As the apartments and buildings are scraped with the PLZ and the Tax Rates include the BfS Nr, we use the csv file 'PLZ_BFS.csv' to match the scraped data with the Tax Rates.

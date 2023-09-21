@@ -1,0 +1,37 @@
+Taxes vs. BUY-Prices of Apartments and Houses
+
+Main Hypothesis:
+The higher the Mean Value of the cantonal tax percentage (cantonal tax percentage + municipal tax percentage), the lower are the house and apartment prices in Switzerland.
+
+
+Null-Hypothesis: The height of the cantonal tax percentage (cantonal tax percentage + municipal tax percentage) does not influence house and apartment purchase prices in Switzerland.
+
+---------------------------------------------------------------------------------------------------------------------------
+Regression Modelling
+In order to evaluate our main hypothesis, additional hypotheses and null hypotheses are made to support the research.
+
+Hypothese 1. Simple Linear Regression
+
+H1: The  tax rate influences the purchase price per m2 of apartments and houses.
+H0: The  tax rate does not influence the purchase price per m2 of apartments and houses.
+
+Hypothese 2. Multiple Linear Regression
+
+H1: The tax rate and the number of square meters influence the purchase price per m2 of apartments and houses.
+H0: The tax rate and the number of square meters do not influence the purchase price per m2 of apartments and houses.
+---------------------------------------------------------------------------------------------------------------------------
+
+ANOVA
+Hypothesis on a cantonal level
+H1: The mean price per m2 differs between cantons.​
+H0: The mean price per m2 does not differ between the different cantons.
+
+---------------------------------------------------------------------------------------------------------------------------
+Unpaired two-sample t-test
+H1: The mean prices per m2 differ between houses and apartments.
+H0: The mean prices per m2 don’t differ between houses and apartments.
+---------------------------------------------------------------------------------------------------------------------------
+
+Correlation Analysis
+H1: The tax rate influences the mean purchase price per m2 of apartments and houses on a municipal level.
+H0: The tax rate does not influence the mean purchase price per m2 of apartments and houses municipal level.

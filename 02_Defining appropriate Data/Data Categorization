@@ -1,0 +1,17 @@
+Categorization of data
+
+by origin
+Primary Data: We don't use primary data, as we don't collect data ourselves.
+Secondary Data: The Tax Rates and BfS-Table are from the Opendata Website and considered as Secondary data. Also, the data we scrape from the site Homegate and Overpass are considered as Secondary data.
+
+by accessibility
+We only use open data for this project.
+
+by scale of measure
+nominal: The description of the advertisements are considered as nominal.
+ratio: We use some ratio scales as for example area, rooms or the price.
+
+by structure
+unstructured: variables as the description is considered unstructured.
+semi-structured: The data we receive from the Overpass Turbo API and is saved as a json file is considered semi-structured.
+structured data: after the web scraping and data preparation the data is saved in the MySQL Table and considered as structured.

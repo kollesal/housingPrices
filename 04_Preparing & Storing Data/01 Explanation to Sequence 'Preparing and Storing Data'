@@ -1,0 +1,17 @@
+We use the data from the Sequence 'Collecting Data' and use it to prepare the data for analysis.
+
+01) Data Storage
+The aggregated data is stored in the MySQL DB. That the data is written into the DB, the Password has to be adjusted in the Steps 'Start Connection to MYSQL and Create Table for Tax Rates and BfS Query Table'.
+
+02) Data Preparation
+We noticed that some advertisements set the value "1" for area, which is why we don't consider this data entries. Also, some advertisments have BUY-Prices lower than CHF 10'000.-. We also dropped this data entries, as they are not valid for the data analysis. If for a advertismenet is missing either the area, price or room, we dropped this entries too.
+
+03) Dataset Files
+dataset_homegate_prepared: This file contains the clean data entries from the advertisements.
+dataset_homegate_enriched: This file contains the clean data entries and is joined with the additional data from the Tax Rates and BfS-Table.
+
+04) New Variables
+Additionally, we created the following variables: luxurious, balcony, garden, quiet, central, price_per_m2, price_cat, area_cat.
+
+05) Geocoding Addresses
+The prepared data is being geocoded in the file 'Geocoding Addresses'. The results are being visually presented in QGIS. The result is saved in the file 'qgis_analysis.jpeg'.
